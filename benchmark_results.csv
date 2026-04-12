@@ -1,0 +1,97 @@
+﻿id,question,correct,gemini,gemini_score,groq,groq_score,bloom
+0501_mc_1,Khả năng hiểu ngôn ngữ của Trí tuệ nhân tạo không thể hiện trong hệ thống nào sau đây?,D,D,1.0,D,1.0,2.0
+0501_mc_2,Người quản trị mạng thực hiện công việc chính nào sau đây?,C,C,1.0,C,1.0,1.0
+0501_mc_3,Phương án nào sau đây chỉ ra lý do chủ yếu dẫn tới nhu cầu gia tăng về số lượng chuyên gia bảo mật hệ thống thông tin?,A,A,1.0,A,1.0,1.0
+0501_mc_4,"Trong lĩnh vực y tế, Trí tuệ nhân tạo được ứng dụng ph biến trong hệ thống nào sau đây?",D,D,1.0,D,1.0,2.0
+0501_mc_5,Thiết bị nào sau đây có chức năng chính là thiết lập kênh kết nối giữa các thiết bị trong mạng LAN (có dây) để truyền dữ liệu?,D,D,1.0,D,1.0,1.0
+0501_mc_6,Một công ty có hai chỉ nhánh ở cách nhau khoảng 10 km. Các máy tính ở mỗi chi nhánh đã được kết nối thành một mạng LAN riêng. Thiết bị nào sau đây là phù hợp nhất đề kết nối hai mạng riêng này thành một mạng chung?,C,C,1.0,C,1.0,3.0
+0501_mc_7,"Đoạn mã CSS nào sau đây thiết lập đường viền có độ dày 3 pixel, kiểu nét đứt bao quanh các đối tượng nội dung khi hiển thị trên trình duyệt?",C,C,1.0,C,1.0,1.0
+0501_mc_8,"Lựa chọn ngôn ngữ Python hoặc C++ đề tìm hiểu đoạn chương trình sau: Đòng Đoạn chương trình viết bằng Python 'Đoạn chương trình viết bằng C+ + 1 n,i,S=9,5, 0 intn=9,,i=5, S= 0; 2 while i < n: while (i <n) { 3 S=s++i S=Ss+i; 4 i=11+92 i = i + 27 l print (S) } 6 cout << S; Phương án nào sau đây chỉ ra đúng số lần lặp của câu lệnh whi1e ở Dòng 2?",B,B,1.0,C,0.0,3.0
+0501_mc_9,"Lựa chọn ngôn ngữ Python hoặc C++ đề tìm hiểu đoạn chương trình sau: Dòng Đoạn chương trình viết bằng Python Đoạn chương trình viết bằng C++ 1 |s = ""TRI TUE NHAN TAO"" char s[] = ""TRI TUE NHAN TAO""; 2 x=9 int x = 97 3 for i in range(8, 10): for (int i = 8; i < 10; i+r+) ({ 4 iSsisS32-= 0:x=x*2 if (i1%3 2 = 0) x = x * 2; 5 else: x=x / 3 else x = x / 3; 6 print(six]) } 7 cout << s[x]; Sau khi thực hiện đoạn chương trình trên, kí tự nào sau đây được hiển thị trên màn hình?",A,A,1.0,B,0.0,3.0
+0501_mc_10,"Trong bộ giao thức TCP/IP, giao thức IP đảm nhận vai trò nào sau đây?",B,B,1.0,B,1.0,1.0
+0501_mc_11,"Đoạn mã HTML nào sau đây định dạng dòng chữ ""TN THPT 2025""? thành in đậm, riêng số 2025 còn được in nghiêng?",D,D,1.0,D,1.0,3.0
+0501_mc_12,Hành vi nào sau đây không phù hợp với đạo đức trong môi trường số?,A,A,1.0,A,1.0,2.0
+0501_mc_13,Thẻ HTML nào sau đây được dùng để tạo danh sách có thứ tự?,D,D,1.0,D,1.0,1.0
+0501_mc_14,Thuộc tính CSS nào sau đây thiết lập cỡ chữ cho văn bản?,A,A,1.0,A,1.0,1.0
+0501_mc_15,"Khi thực hiện đoạn mã HTML sau, dòng chữ ""Chúc các em thi tôt!"" sẽ được hiên thị trên trình duyệt theo định dạng nào dưới đây? <htm1><head><style> .mau{color: green; font-weight: bold;} #mau{color: yellow; font-style: italic;} </style></head><body><p id=""mau"">Chúc các em thi tốt!</p></body></html>",B,B,1.0,B,1.0,2.0
+0501_mc_16,Tiêu đề của trang web được khai báo trong phần tử HTML nào sau đây?,C,C,1.0,C,1.0,1.0
+0501_mc_17,Đoạn mã CSS nào sau đây thiết lập hình ảnh và văn bản được hiển thị theo khối?,A,A,1.0,A,1.0,1.0
+0501_mc_18,Người làm nghề sửa chữa và bảo trì máy tính phải có kiến thức về lĩnh vực nào sau đây?,A,A,1.0,A,1.0,1.0
+0501_mc_19,"Khi đọc được thông tin về một khu vực vừa bị thiên tai trên một trang báo điện tử uy tín, hành động nào sau đây không thể hiện tính nhân văn trên không gian mạng?",A,A,1.0,A,1.0,2.0
+0501_mc_20,"Một người lạ bắt chuyện qua mạng xã hội và giới thiệu cơ hội ""việc nhẹ lương cao? ° cho một học sinh. Tuy nhiên, để nhận công việc này phải nộp trước một số tiền đặt cọc giữ chỗ. Trong tình huống này, ứng xử nào sau đây của bạn học sinh không an toàn trên không gian mạng?",D,D,1.0,D,1.0,3.0
+0501_mc_21,"Cho đoạn mã HTML sau: <table border=""1"" width=""50%"" height=""10%""> <tr> <th> </th> <th> </th> <th> </th </tr> <tr> <td> </td> <td> </td> <td> </td> </tr> </table> Phương án nào sau đây nêu đúng số lượng hàng và cột của bảng được tạo bởi đoạn mã trên?",D,D,1.0,D,1.0,1.0
+0501_mc_22,Lĩnh vực tin học nào sau đây tập trung vào việc nghiên cứu và phát triển các phần mềm làm cho máy tính ngày càng thông minh như con người?,C,C,1.0,C,1.0,1.0
+0501_mc_23,Cách ứng xử nào sau đây phù hợp đối với kết quả được tạo ra bởi Trí tuệ nhân tạo?,B,B,1.0,B,1.0,2.0
+0501_mc_24,Router có chức năng chính nào sau đây?,B,B,1.0,B,1.0,1.0
+0503_mc_1,Thuộc tính CSS nào sau đây thiết lập cỡ chữ cho văn bản?,C,C,1.0,C,1.0,1.0
+0503_mc_2,Thẻ HTML nào sau đây được dùng đề tạo danh sách có thứ tự?,C,C,1.0,C,1.0,1.0
+0503_mc_3,"Cho đoạn mã HTML sau: <table border=""1"" width=""50%"" height=""10%""> <tr> <th> </th> <th> </th> <th> </th> </tr> <tr> <td> </td> <td> </td> <td> </td> </tr> </table> Phương án nào sau đây nêu đúng số lượng hàng và cột của bảng được tạo bởi đoạn mã trên?",A,A,1.0,A,1.0,1.0
+0503_mc_4,"Khi thực hiện đoạn mã HTML sau, dòng chữ ""Chúc các em thi tốt!"" sẽ được hiển thị trên trình duyệt theo định dạng nào dưới đây? <html><head><style> .mau{color: green; font-weight: bold;} #mau{color: yellow; font-style: italic;} </style></head><body><p id=""mau"">Chúc các em thi tốt!</p></body></html>",C,C,1.0,C,1.0,2.0
+0503_mc_5,Tiêu đề của trang web được khai báo trong phần tử HTML nào sau đây?,B,B,1.0,B,1.0,1.0
+0503_mc_6,"Một người lạ bắt chuyện qua mạng xã hội và giới thiệu cơ hội ""việc nhẹ lương cao"" cho một học sinh. Tuy nhiên, để nhận công việc này phải nộp trước một số tiền đặt cọc giữ chỗ. Trong tình huống này, ứng xử nào sau đây của bạn học sinh không an toàn trên không gian mạng?",D,D,1.0,D,1.0,3.0
+0503_mc_7,"Khi đọc được thông tin về một khu vực vừa bị thiên tai trên một trang báo điện tử uy tín, hành động nào sau đây không thể hiện tính nhân văn trên không gian mạng?",A,A,1.0,A,1.0,2.0
+0503_mc_8,Đoạn mã CSS nào sau đây thiết lập hình ảnh và văn bản được hiển thị theo khốï?,A,A,1.0,C,0.0,1.0
+0503_mc_9,Lĩnh vực tin học nào sau đây tập trung vào việc nghiên cứu và phát triển các phần mềm làm cho máy tính ngày càng thông minh như con người?,C,C,1.0,C,1.0,1.0
+0503_mc_10,Thiết bị nào sau đây có chức năng chính là thiết lập kênh kết nối giữa các thiết bị trong mạng LAN (có dây) để truyền dữ liệu?,D,D,1.0,D,1.0,1.0
+0503_mc_11,"Trong lĩnh vực y tế, Trí tuệ nhân tạo được ứng dụng phố biến trong hệ thống nào sau đây?",B,B,1.0,B,1.0,2.0
+0503_mc_12,"Đoạn mã CSS nào sau đây thiết lập đường viền có độ dày 3 pixel, kiểu nét đứt bao quanh các đối tượng nội dung khi hiển thị trên trình duyệt?",C,C,1.0,C,1.0,3.0
+0503_mc_13,Hành vi nào sau đây không phù hợp với đạo đức trong môi trường số?,C,C,1.0,C,1.0,2.0
+0503_mc_14,"Đoạn mã HTML nào sau đây định dạng dòng chữ ""TN THPT 2025"" thành in đậm, riêng số 2025 còn được in nghiêng?",D,D,1.0,D,1.0,3.0
+0503_mc_15,Router có chức năng chính nào sau đây?,A,A,1.0,A,1.0,1.0
+0503_mc_16,Phương án nào sau đây chỉ ra lý do chủ yếu dẫn tới nhu cầu gia tăng về số lượng chuyên gia bảo mật hệ thống thông tin?,C,C,1.0,C,1.0,1.0
+0503_mc_17,Người làm nghề sửa chữa và bảo trì máy tính phải có kiến thức về lĩnh vực nào sau đây?,B,B,1.0,B,1.0,1.0
+0503_mc_18,"Lựa chọn ngôn ngữ Python hoặc C++ để tìm hiểu đoạn chương trình sau: DĐòng Đoạn chương trình viết bằng Python Đoạn chương trình viết bằng C++ 1 S = ""TRI_TUE_NHAN_TAO"" char s[] = ""TRI_TUE NHAN TAO""; 2 x=9 int x = 9; 3 for i in range(8, 10): for (int i = 6; i < 10; i+r+) { 4 if®iS%2=.0:x=x*2 if (1$ 2 = 0) x= x * 2; l else: x=x // 3 else x = x / 3; 6 print(six]) } 7 cout << s[x]; Sau khi thực hiện đoạn chương trình trên, kí tự nào sau đây được hiển thị trên màn hình?",B,C,0.0,C,0.0,3.0
+0503_mc_19,Người quản trị mạng thực hiện công việc chính nào sau đây?,D,D,1.0,D,1.0,1.0
+0503_mc_20,"Lựa chọn ngôn ngữ Python hoặc C++ để tìm hiều đoạn chương trình sau: Đòng Đoạn chương trình viết bằng Python 1 n,i,S=9,5,0 2 while i < n: 3 S = S + i 4 i=zi+2 5 print(S) 6 Đoạn chương trình viết bằng C++ intn=9,i=5, S= 0; while (i <n) ({ S=S + i; i= i + 27 } cout << S; Phương án nào sau đây chỉ ra đúng số lần lặp của câu lệnh whi 1e ở Dòng 2?",D,D,1.0,C,0.0,3.0
+0503_mc_21,Cách ứng xử nào sau đây phù hợp đối với kết quả được tạo ra bởi Trí tuệ nhân tạo?,A,A,1.0,A,1.0,4.0
+0503_mc_22,Khả năng hiều ngôn ngữ của Trí tuệ nhân tạo không thể hiện trong hệ thống nào sau đây?,C,C,1.0,C,1.0,2.0
+0503_mc_23,"Trong bộ giao thức TCP/IP, giao thức IP đảm nhận vai trò nào sau đây?",A,A,1.0,A,1.0,1.0
+0503_mc_24,Một công ty có hai chỉ nhánh ở cách nhau khoảng 10 km. Các máy tính ở mỗi chi nhánh đã được kết nối thành một mạng LAN riêng. Thiết bị nào sau đây là phù hợp nhất đề kết nối hai mạng riêng này thành một mạng chung?,,D,0.0,D,0.0,3.0
+0537_mc_1,Người quản trị mạng thực hiện công việc chính nào sau đây?,D,D,1.0,D,1.0,1.0
+0537_mc_2,"Trong bộ giao thức TCP/IP, giao thức IP đảm nhận vai trò nào sau đây?",C,C,1.0,C,1.0,1.0
+0537_mc_3,Hành vi nào sau đây không phù hợp với đạo đức trong môi trường số?,B,B,1.0,B,1.0,2.0
+0537_mc_4,"Đoạn mã HTML nào sau đây định dạng dòng chữ """"TN THPT 2025"" thành in đậm, riêng số 2025 còn được in nghiêng?",C,C,1.0,C,1.0,3.0
+0537_mc_5,"Đoạn mã CSS nào sau đây thiết lập đường viền có độ dày 3 pixel, kiểu nét đứt bao quanh các đối tượng nội dung khi hiển thị trên trình duyệt?",D,D,1.0,D,1.0,3.0
+0537_mc_6,Một công ty có hai chỉ nhánh ở cách nhau khoảng 10 km. Các máy tính ở mỗi chỉ nhánh đã được kết nối thành một mạng LAN riêng. Thiết bị nào sau đây là phù hợp nhất để kết nối hai mạng riêng này thành một mạng chung?,B,B,1.0,B,1.0,3.0
+0537_mc_7,Tiêu đề của trang web được khai báo trong phần tử HTML nào sau đây?,D,D,1.0,D,1.0,1.0
+0537_mc_8,Khả năng hiểu ngôn ngữ của Trí tuệ nhân tạo không thể hiện trong hệ thống nào sau đây?,B,B,1.0,B,1.0,2.0
+0537_mc_9,Thiết bị nào sau đây có chức năng chính là thiết lập kênh kết nối giữa các thiết bị trong mạng LAN (có dây) để truyền dữ liệu?,B,B,1.0,B,1.0,1.0
+0537_mc_10,Người làm nghề sửa chữa và bảo trì máy tính phải có kiến thức về lĩnh vực nào sau đây?,A,A,1.0,A,1.0,1.0
+0537_mc_11,"Khi đọc được thông tin về một khu vực vừa bị thiên tai trên một trang báo điện tử uy tín, hành động nào sau đây không thể hiện tính nhân văn trên không gian mạng?",A,A,1.0,A,1.0,2.0
+0537_mc_12,Router có chức năng chính nào sau đây?,C,C,1.0,C,1.0,1.0
+0537_mc_13,"Cho đoạn mã HTML sau: <table border=""1"" width=""50$"" height=""10%""> <tr> <th> </th> <th> </th> <th> </th> </tr> <tr> <td> </td> <td> </td> <td> </td> </tr> </table> Phương án nào sau đây nêu đúng số lượng hàng và cột của bảng được tạo bởi đoạn mã trên?",B,B,1.0,B,1.0,2.0
+0537_mc_14,Cách ứng xử nào sau đây phù hợp đối với kết quả được tạo ra bởi Trí tuệ nhân tạo?,D,D,1.0,D,1.0,4.0
+0537_mc_15,Phương án nào sau đây chỉ ra lý do chủ yếu dẫn tới nhu cầu gia tăng về số lượng chuyên gia bảo mật hệ thống thông tin?,A,A,1.0,A,1.0,1.0
+0537_mc_16,"Khi thực hiện đoạn mã HTML sau, dòng chữ ""Chúc các em thi tốt!"" sẽ được hiển thị trên trình duyệt theo định dạng nào dưới đây? <html><head><style> .mau{color: green; font-weight: bold;]} #mau{color: yellow; font-style: italic;} </style></head><body><p id=""mau"">Chúc các em thi tốt!</p></body></html>",C,C,1.0,C,1.0,2.0
+0537_mc_17,Lựa chọn ngôn ngữ Python hoặc C++ đề tìm hiểu đoạn chương trình sau:,C,C,1.0,C,1.0,1.0
+0537_mc_18,Đoạn mã CSS nào sau đây thiết lập hình ảnh và văn bản được hiển thị theo khối?,D,D,1.0,D,1.0,1.0
+0537_mc_19,Thẻ HTML nào sau đây được dùng để tạo danh sách có thứ tự?,A,A,1.0,A,1.0,1.0
+0537_mc_20,Lĩnh vực tin học nào sau đây tập trung vào việc nghiên cứu và phát triển các phần mềm làm cho máy tính ngày càng thông minh như con người?,D,D,1.0,D,1.0,1.0
+0537_mc_21,"Lựa chọn ngôn ngữ Python hoặc C++ đề tìm hiểu đoạn chương trình sau: Dòng Đoạn chương trình viết bằng Python 1 n,i,S=9,5,0 while i < n: S = i = print(S) } cout << S; Phương án nào sau đây chỉ ra đúng số lần lặp của câu lệnh whi 1e ở Dòng 2?",D,C,0.0,,0.0,3.0
+0537_mc_22,"Một gươl lạ bắt chuyện qua mạng; xã hội và giới thiệu cơ hội ""việc nhẹ lương cao"" ° cho một học sinh. Tuy nhiên, để nhận công việc này phải nộp trước một số tiền đặt cọc giữ chỗ. Trong tình huống này, ứng xử nào sau đây của bạn học sinh không ạn toàn trên không gian mạng""",A,A,1.0,C,0.0,3.0
+0537_mc_23,"Trong lĩnh vực y tế, Trí tuệ nhân tạo được ứng dụng phổ biến trong hệ thống nào sau đây?",D,D,1.0,D,1.0,2.0
+0537_mc_24,Thuộc tính CSS nào sau đây thiết lập cỡ chữ cho văn bản?,D,D,1.0,D,1.0,1.0
+0539_mc_1,Thiết bị nào sau đây có chức năng chính là thiết lập kênh kết nối giữa các thiết bị trong mạng LAN (có dây) đề truyền dữ liệu?,C,C,1.0,C,1.0,1.0
+0539_mc_2,Tiêu đề của trang web được khai báo trong phân tử HTML nào sau đây?,B,B,1.0,B,1.0,1.0
+0539_mc_3,Phương án nào sau đây chỉ ra lý do chủ yếu dẫn tới nhu cầu gia tăng về số lượng chuyên gia bảo mật hệ thống thông tin?,A,A,1.0,A,1.0,1.0
+0539_mc_4,"Trong bộ giao thức TCP/IP, giao thức IP đảm nhận vai trò nào sau đây?",B,B,1.0,B,1.0,1.0
+0539_mc_5,"Trong lĩnh vực y tế, Trí tuệ nhân tạo được ứng dụng phồ biến trong hệ thống nào sau đây?",A,A,1.0,A,1.0,1.0
+0539_mc_6,"Cho đoạn mã HTML sau: <table border=""1"" width=""50%$"" height=""10%""> <tr> <th> </th> <th> </th> <th> </th> </tr> <tr> <td> </td> <td> </td> <td> </td> </tr> </table> Phương án nào sau đây nêu đúng số lượng hàng và cột của bảng được tạo bởi đoạn mã trên?",B,B,1.0,B,1.0,1.0
+0539_mc_7,"Lựa chọn ngôn ngữ Python hoặc C++ để tìm hiểu đoạn chương trình sau: Dòng Đoạn chương trình viết bằng Python Đoạn chương trình viết bằng C++ 1 n,i,S=9,5, 0 intUun=9,, i = 5, S= 0; 2 while i < n: wnile (i <n) { 3 S=Ssr+ri S=S+ 1i; 4 i = i + 2?",D,C,0.0,D,1.0,2.0
+0539_mc_8,Cách ứng xử nào sau đây phù hợp đối với kết quả được tạo ra bởi Trí tuệ nhân tạo?,A,A,1.0,A,1.0,4.0
+0539_mc_9,Hành vi nào sau đây không phù hợp với đạo đức trong môi trường số?,A,A,1.0,A,1.0,2.0
+0539_mc_10,Khả năng hiểu ngôn ngữ của Trí tuệ nhân tạo không thể hiện trong hệ thống nào sau đây?,A,A,1.0,A,1.0,2.0
+0539_mc_11,"Lựa chọn ngôn ngữ Python hoặc C++ đề tìm hiểu đoạn chương trình sau: Dòng Đoạn chương trình viết bằng Python 'Đoạn chương trình viết bằng C+ + 1 s = ""TRI_TUE_NHAN_TAO"" char s[] = ""TRI_TUE_NHAN_ TAO""; 2 x=39 int x = 9; 3 for i in range(8, 10): for (int i = 8; i < 10; i+r+) ({ 4 ifi%2=.0: x=x * 2 if (1% 2 = 0) x= x * 2; 5 else: x = x // 3 else x = x / 3; 6 print(s[x]) } 7 cout << s[x]; Sau khi thực hiện đoạn chương trình trên, kí tự nào sau đây được hiền thị trên màn hình?",A,C,0.0,C,0.0,3.0
+0539_mc_12,Một công ty có hai chỉ nhánh ở cách nhau khoảng 10 km. Các máy tính ở mỗi chi nhánh đã được kết nối thành một mạng LAN riêng. Thiết bị nào sau đây là phù hợp nhất để kết nối hai mạng riêng này thành một mạng chung?,A,A,1.0,A,1.0,3.0
+0539_mc_13,"Một người lạ bắt chuyện qua mạng xã hội và giới thiệu cơ hội ""việc nhẹ lương cao"" cho một học sinh. Tuy nhiên, đề nhận công việc này phải nộp trước một số tiền đặt cọc giữ chỗ. Trong tình huống này, ứng xử nào sau đây của bạn học sinh không an toàn trên không gian mạng?",C,C,1.0,C,1.0,3.0
+0539_mc_14,Thẻ HTML nào sau đây được dùng để tạo danh sách có thứ tự?,C,C,1.0,C,1.0,1.0
+0539_mc_15,"Đoạn mã HTML nào sau đây định dạng dòng chữ ""TN THPT 2025""? thành in đậm, riêng số 2025 còn được in nghiêng?",B,B,1.0,B,1.0,3.0
+0539_mc_16,Lĩnh vực tin học nào sau đây tập trung vào việc nghiên cứu và phát triển các phần mềm làm cho máy tính ngày càng thông minh như con người?,D,D,1.0,D,1.0,1.0
+0539_mc_17,"Đoạn mã CSS nào sau đây thiết lập đường viền có độ dày 3 pixel, kiểu nét đứt bao quanh các đối tượng nội dung khi hiên thị trên trình duyệt?",D,D,1.0,D,1.0,3.0
+0539_mc_18,"Khi thực hiện đoạn mã HTML sau, dòng chữ ""Chúc các em thi tôt!"" sẽ được hiền thị trên trình duyệt theo định dạng nào dưới đây? <html><head><style> .mau{color: green; font-weight: bold;} #mau{color: yellow; font-style: italic;]} </sty1e></head><body><p id=""mau"">Chúc các em thi tốt!</p></body></html>",A,A,1.0,A,1.0,2.0
+0539_mc_19,Router có chức năng ủmh nào sau đây?,B,B,1.0,B,1.0,1.0
+0539_mc_20,Người làm nghề sửa chữa và bảo trì máy tính phải có kiến thức về lĩnh vực nào sau đây?,C,C,1.0,C,1.0,1.0
+0539_mc_21,Thuộc tính CSS nào sau đây thiết lập cỡ chữ cho văn bản?,D,D,1.0,D,1.0,1.0
+0539_mc_22,"Khi đọc được thông tin về một khu vực vừa bị thiên tai trên một trang báo điện tử uy tín, hành động nào sau đây không thể hiện tính nhân văn trên không gian mạng?",B,B,1.0,B,1.0,2.0
+0539_mc_23,Người quản trị mạng thực hiện công việc chính nào sau đây?,B,B,1.0,B,1.0,1.0
+0539_mc_24,Đoạn mã CSS nào sau đây thiết lập hình ảnh và văn bản được hiển thị theo khối?,C,C,1.0,C,1.0,1.0

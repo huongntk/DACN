@@ -1,0 +1,3075 @@
+{
+  "0501": {
+    "multiple_choice": [
+      {
+        "number": "1",
+        "content": "Khả năng hiểu ngôn ngữ của Trí tuệ nhân tạo không thể hiện trong hệ thống nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Trợ lý ảo trên xe ô tô."
+          },
+          {
+            "label": "B",
+            "content": "Tổng đài tự động hỏi đáp."
+          },
+          {
+            "label": "C",
+            "content": "Trợ giúp soạn thảo văn bản."
+          },
+          {
+            "label": "D",
+            "content": "Nhận diện khuôn mặt."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "2",
+        "content": "Người quản trị mạng thực hiện công việc chính nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Xây dựng các ứng dụng trên mạng."
+          },
+          {
+            "label": "B",
+            "content": "Tư vấn nâng cấp các thiết bị phần cứng."
+          },
+          {
+            "label": "C",
+            "content": "Thiết lập và cấu hình hệ thống mạng."
+          },
+          {
+            "label": "D",
+            "content": "Nghiên cứu và phát triển các phần mềm."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "C"
+      },
+      {
+        "number": "3",
+        "content": "Phương án nào sau đây chỉ ra lý do chủ yếu dẫn tới nhu cầu gia tăng về số lượng chuyên gia bảo mật hệ thống thông tin?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Tính phức tạp ngày càng tăng của các cuộc tấn công mạng."
+          },
+          {
+            "label": "B",
+            "content": "Tốc độ xử lý của CPU ngày càng tăng nhanh."
+          },
+          {
+            "label": "C",
+            "content": "Sự phổ biến của các ứng dụng soạn thảo văn bản."
+          },
+          {
+            "label": "D",
+            "content": "Dung lượng của các thiết bị lưu trữ ngày càng tăng nhanh."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "4",
+        "content": "Trong lĩnh vực y tế, Trí tuệ nhân tạo được ứng dụng ph biến trong hệ thống nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Tự động hóa hoàn toàn việc kê đơn thuốc cho bệnh nhân."
+          },
+          {
+            "label": "B",
+            "content": "ln phiếu thứ tự khám bệnh cho bệnh nhân tại các phòng khám."
+          },
+          {
+            "label": "C",
+            "content": "Tự động hóa hoàn toàn việc thẩm định các loại thuốc mới."
+          },
+          {
+            "label": "D",
+            "content": "Hỗ trợ bác sĩ chẩn đoán bệnh dựa trên hình ảnh X-quang."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "5",
+        "content": "Thiết bị nào sau đây có chức năng chính là thiết lập kênh kết nối giữa các thiết bị trong mạng LAN (có dây) để truyền dữ liệu?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Router."
+          },
+          {
+            "label": "B",
+            "content": "Access Point."
+          },
+          {
+            "label": "C",
+            "content": "Modem."
+          },
+          {
+            "label": "D",
+            "content": "Switch."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "6",
+        "content": "Một công ty có hai chỉ nhánh ở cách nhau khoảng 10 km. Các máy tính ở mỗi chi nhánh đã được kết nối thành một mạng LAN riêng. Thiết bị nào sau đây là phù hợp nhất đề kết nối hai mạng riêng này thành một mạng chung?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Access Point."
+          },
+          {
+            "label": "B",
+            "content": "Modem."
+          },
+          {
+            "label": "C",
+            "content": "Router."
+          },
+          {
+            "label": "D",
+            "content": "Switch."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "C"
+      },
+      {
+        "number": "7",
+        "content": "Đoạn mã CSS nào sau đây thiết lập đường viền có độ dày 3 pixel, kiểu nét đứt bao quanh các đối tượng nội dung khi hiển thị trên trình duyệt?",
+        "options": [
+          {
+            "label": "A",
+            "content": "p.border {border-width: 3px; border-style: double;}"
+          },
+          {
+            "label": "B",
+            "content": "p (border-width: 3px; border-style: double;]}"
+          },
+          {
+            "label": "C",
+            "content": "p (border-width: 3px; border-style: dashed;}"
+          },
+          {
+            "label": "D",
+            "content": "p.border {(border-width: 3px; border-style: groove;}"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "C"
+      },
+      {
+        "number": "8",
+        "content": "Lựa chọn ngôn ngữ Python hoặc C++ đề tìm hiểu đoạn chương trình sau: Đòng Đoạn chương trình viết bằng Python 'Đoạn chương trình viết bằng C+ + 1 n,i,S=9,5, 0 intn=9,,i=5, S= 0; 2 while i < n: while (i <n) { 3 S=s++i S=Ss+i; 4 i=11+92 i = i + 27 l print (S) } 6 cout << S; Phương án nào sau đây chỉ ra đúng số lần lặp của câu lệnh whi1e ở Dòng 2?",
+        "options": [
+          {
+            "label": "A",
+            "content": "3."
+          },
+          {
+            "label": "B",
+            "content": "2."
+          },
+          {
+            "label": "C",
+            "content": "1."
+          },
+          {
+            "label": "D",
+            "content": "0."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "B"
+      },
+      {
+        "number": "9",
+        "content": "Lựa chọn ngôn ngữ Python hoặc C++ đề tìm hiểu đoạn chương trình sau: Dòng Đoạn chương trình viết bằng Python Đoạn chương trình viết bằng C++ 1 |s = \"TRI TUE NHAN TAO\" char s[] = \"TRI TUE NHAN TAO\"; 2 x=9 int x = 97 3 for i in range(8, 10): for (int i = 8; i < 10; i+r+) ({ 4 iSsisS32-= 0:x=x*2 if (i1%3 2 = 0) x = x * 2; 5 else: x=x / 3 else x = x / 3; 6 print(six]) } 7 cout << s[x]; Sau khi thực hiện đoạn chương trình trên, kí tự nào sau đây được hiển thị trên màn hình?",
+        "options": [
+          {
+            "label": "A",
+            "content": "E"
+          },
+          {
+            "label": "B",
+            "content": "U"
+          },
+          {
+            "label": "C",
+            "content": "TI"
+          },
+          {
+            "label": "D",
+            "content": "R"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "10",
+        "content": "Trong bộ giao thức TCP/IP, giao thức IP đảm nhận vai trò nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Truyền tải an toàn dữ liệu giữa các thiết bị."
+          },
+          {
+            "label": "B",
+            "content": "Định tuyến các gói dữ liệu đến đúng địa chỉ mạng."
+          },
+          {
+            "label": "C",
+            "content": "Cấp phát địa chỉ IP cho các thiết bị trong mạng."
+          },
+          {
+            "label": "D",
+            "content": "Thiết lập bộ quy tắc gửi và nhận thư điện tử qua mạng."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "B"
+      },
+      {
+        "number": "11",
+        "content": "Đoạn mã HTML nào sau đây định dạng dòng chữ \"TN THPT 2025\"? thành in đậm, riêng số 2025 còn được in nghiêng?",
+        "options": [
+          {
+            "label": "A",
+            "content": "<p><em>TN THPT </em><strong>2025</strong></p>"
+          },
+          {
+            "label": "B",
+            "content": "<p><em>TN THPT <strong>2025</strong></em></p>"
+          },
+          {
+            "label": "C",
+            "content": "<p><em><strong>TN THPT 2025</strong></em></p>"
+          },
+          {
+            "label": "D",
+            "content": "<p><strong>TN THPT <em>2025</em></strong></p>"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "12",
+        "content": "Hành vi nào sau đây không phù hợp với đạo đức trong môi trường số?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Phát tán tin đồn chưa được kiểm chứng về người khác."
+          },
+          {
+            "label": "B",
+            "content": "Trao đổi ý kiến thẳng thắn nhưng mang tính xây dựng."
+          },
+          {
+            "label": "C",
+            "content": "Chia sẻ kiến thức có ích kèm theo nguồn trích dẫn."
+          },
+          {
+            "label": "D",
+            "content": "Cổ vũ cho những việc làm tốt để lan tỏa đến mọi người."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "13",
+        "content": "Thẻ HTML nào sau đây được dùng để tạo danh sách có thứ tự?",
+        "options": [
+          {
+            "label": "A",
+            "content": "<1li>"
+          },
+          {
+            "label": "B",
+            "content": "<ul>"
+          },
+          {
+            "label": "C",
+            "content": "<table>"
+          },
+          {
+            "label": "D",
+            "content": "<o1>"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "14",
+        "content": "Thuộc tính CSS nào sau đây thiết lập cỡ chữ cho văn bản?",
+        "options": [
+          {
+            "label": "A",
+            "content": "font-size"
+          },
+          {
+            "label": "B",
+            "content": "text-align"
+          },
+          {
+            "label": "C",
+            "content": "font-family"
+          },
+          {
+            "label": "D",
+            "content": "text-indent"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "15",
+        "content": "Khi thực hiện đoạn mã HTML sau, dòng chữ \"Chúc các em thi tôt!\" sẽ được hiên thị trên trình duyệt theo định dạng nào dưới đây? <htm1><head><style> .mau{color: green; font-weight: bold;} #mau{color: yellow; font-style: italic;} </style></head><body><p id=\"mau\">Chúc các em thi tốt!</p></body></html>",
+        "options": [
+          {
+            "label": "A",
+            "content": "Màu xanh lá cây, in đậm."
+          },
+          {
+            "label": "B",
+            "content": "Màu vàng, in nghiêng."
+          },
+          {
+            "label": "C",
+            "content": "Màu xanh lá cây, in nghiêng."
+          },
+          {
+            "label": "D",
+            "content": "Màu vàng, in đậm."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "B"
+      },
+      {
+        "number": "16",
+        "content": "Tiêu đề của trang web được khai báo trong phần tử HTML nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "html"
+          },
+          {
+            "label": "B",
+            "content": "p"
+          },
+          {
+            "label": "C",
+            "content": "title"
+          },
+          {
+            "label": "D",
+            "content": "body"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "C"
+      },
+      {
+        "number": "17",
+        "content": "Đoạn mã CSS nào sau đây thiết lập hình ảnh và văn bản được hiển thị theo khối?",
+        "options": [
+          {
+            "label": "A",
+            "content": "img, p {display: blocx;}"
+          },
+          {
+            "label": "B",
+            "content": "img, p (display: none;}"
+          },
+          {
+            "label": "C",
+            "content": "img, p (display: inline;}"
+          },
+          {
+            "label": "D",
+            "content": "ing, p {display: flex;}"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "18",
+        "content": "Người làm nghề sửa chữa và bảo trì máy tính phải có kiến thức về lĩnh vực nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Phần cứng máy tính."
+          },
+          {
+            "label": "B",
+            "content": "Lập trình nhúng."
+          },
+          {
+            "label": "C",
+            "content": "Cơ sở dữ liệu."
+          },
+          {
+            "label": "D",
+            "content": "An toàn thông tin."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "19",
+        "content": "Khi đọc được thông tin về một khu vực vừa bị thiên tai trên một trang báo điện tử uy tín, hành động nào sau đây không thể hiện tính nhân văn trên không gian mạng?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Đăng tải lại hình ảnh thiên tai trên trang cá nhân để tăng lượt tương tác."
+          },
+          {
+            "label": "B",
+            "content": "Gửi lời chia buồn và động viên những người bị ảnh hưởng từ thiên tai."
+          },
+          {
+            "label": "C",
+            "content": "Kêu gọi giúp đỡ từ cộng đồng nếu xác minh được thông tin là chính xác."
+          },
+          {
+            "label": "D",
+            "content": "Tham gia các nhóm từ thiện trực tuyến để tìm hiểu và hỗ trợ thiết thực."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "20",
+        "content": "Một người lạ bắt chuyện qua mạng xã hội và giới thiệu cơ hội \"việc nhẹ lương cao? ° cho một học sinh. Tuy nhiên, để nhận công việc này phải nộp trước một số tiền đặt cọc giữ chỗ. Trong tình huống này, ứng xử nào sau đây của bạn học sinh không an toàn trên không gian mạng?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Xác minh thông tin một cách cẩn trọng."
+          },
+          {
+            "label": "B",
+            "content": "Bỏ qua tin nhắn và cảnh báo cho bạn bè."
+          },
+          {
+            "label": "C",
+            "content": "Trình báo cho công an về dấu hiệu lừa đảo."
+          },
+          {
+            "label": "D",
+            "content": "Nộp tiền đặt cọc ngay theo yêu câu."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "21",
+        "content": "Cho đoạn mã HTML sau: <table border=\"1\" width=\"50%\" height=\"10%\"> <tr> <th> </th> <th> </th> <th> </th </tr> <tr> <td> </td> <td> </td> <td> </td> </tr> </table> Phương án nào sau đây nêu đúng số lượng hàng và cột của bảng được tạo bởi đoạn mã trên?",
+        "options": [
+          {
+            "label": "A",
+            "content": "3 hàng, 2 cột."
+          },
+          {
+            "label": "B",
+            "content": "3hàng,3 cột."
+          },
+          {
+            "label": "C",
+            "content": "2hàng, 2 cột."
+          },
+          {
+            "label": "D",
+            "content": "2hàng, 3 cột."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "22",
+        "content": "Lĩnh vực tin học nào sau đây tập trung vào việc nghiên cứu và phát triển các phần mềm làm cho máy tính ngày càng thông minh như con người?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Mạng máy tính."
+          },
+          {
+            "label": "B",
+            "content": "An toàn thông tin."
+          },
+          {
+            "label": "C",
+            "content": "Trí tuệ nhân tạo."
+          },
+          {
+            "label": "D",
+            "content": "Internet vạn vật."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "C"
+      },
+      {
+        "number": "23",
+        "content": "Cách ứng xử nào sau đây phù hợp đối với kết quả được tạo ra bởi Trí tuệ nhân tạo?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Tin tưởng hoàn toàn vào tính chính xác và khách quan."
+          },
+          {
+            "label": "B",
+            "content": "Xem xét một cách thận trọng và có trách nhiệm."
+          },
+          {
+            "label": "C",
+            "content": "Giữ nguyên để làm sản phẩm học tập và nghiên cứu."
+          },
+          {
+            "label": "D",
+            "content": "Chia sẻ ra cộng đồng mà không cần kiểm chứng."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "B"
+      },
+      {
+        "number": "24",
+        "content": "Router có chức năng chính nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Kết nối các thiết bị bằng sóng vô tuyến trong mạng cục bộ."
+          },
+          {
+            "label": "B",
+            "content": "Tìm đường đi tối ưu để truyền các gói dữ liệu giữa các mạng."
+          },
+          {
+            "label": "C",
+            "content": "Chuyển đổi giữa tín hiệu tương tự và tín hiệu số qua mạng."
+          },
+          {
+            "label": "D",
+            "content": "Phát tín hiệu đến tất cả các cồng kết nối trong mạng LAN."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "B"
+      }
+    ],
+    "true_false_common": [
+      {
+        "number": "1",
+        "content": "Tòa nhà của một công ty có một số phòng làm việc. M01 phòng có không quá 10 máy tính, được kết nối với nhau thông qua Switch tạo thành một mạng LAN. Công ty cần kết nối các mạng LAN này với nhau đề tạo thành một mạng cục bộ duy nhất. Sau khi thảo luận, một số nhân viên của công ty đưa ra các nhận định sau: A) Mạng cục bộ của công ty là mạng WAN.",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "S"
+      },
+      {
+        "number": "2",
+        "content": "Tòa nhà của một công ty có một số phòng làm việc. M01 phòng có không quá 10 máy tính, được kết nối với nhau thông qua Switch tạo thành một mạng LAN. Công ty cần kết nối các mạng LAN này với nhau đề tạo thành một mạng cục bộ duy nhất. Sau khi thảo luận, một số nhân viên của công ty đưa ra các nhận định sau: B) Có thể sử dụng Switch loại 16 cồng đề kết nối các máy tính trong mỗi phòng làm việc. ",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "3",
+        "content": "Tòa nhà của một công ty có một số phòng làm việc. M01 phòng có không quá 10 máy tính, được kết nối với nhau thông qua Switch tạo thành một mạng LAN. Công ty cần kết nối các mạng LAN này với nhau đề tạo thành một mạng cục bộ duy nhất. Sau khi thảo luận, một số nhân viên của công ty đưa ra các nhận định sau: C) Để máy tính trong các phòng làm việc truy cập được Internet thì chỉ cần lắp đặt thêm một Modem mà không cần phải đăng ký với nhà cung cấp dịch vụ Internet. ",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "S"
+      },
+      
+      {
+        "number": "4",
+        "content": "Tòa nhà của một công ty có một số phòng làm việc. M01 phòng có không quá 10 máy tính, được kết nối với nhau thông qua Switch tạo thành một mạng LAN. Công ty cần kết nối các mạng LAN này với nhau đề tạo thành một mạng cục bộ duy nhất. Sau khi thảo luận, một số nhân viên của công ty đưa ra các nhận định sau: D) Để các nhân viên có thể sử dụng điện thoại thông minh kết nối được vào mạng cục bộ của công ty qua Wi-Fi, có thể lắp đặt cho mỗi phòng một Access Point và kết nối thiết bị này với Switch ở phòng đó.",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "5",
+        "content": "Dữ liệu về dân số nước ta từ năm 2019 đến năm 2023 có trong niên giám số liệu thống kê của Tổng cục thống kê. Việc quản lí dữ liệu này có ý nghĩa quan trọng trong hoạch định một số chính sách quốc gia. Đề lưu trữ và khai thác dữ liệu về dân số hàng năm theo từng khu vực, có thể tạo cơ sở dữ liệu với các bảng sau: s KHUVUC (maKZ, tenKV): lưu thông tin mã khu vực và tên khu vực; mỗi khu vực có một mã khu vực duy nhất. s TINH (ma7ïnh, maKV, tenTinh): lưu thông tin mã tỉnh, mã khu vực và tên tỉnh; mỗi tỉnh chỉ thuộc về một khu vực và mỗi khu vực có thể có nhiều tỉnh. s DANSO (ma7Tinh, nam, danSoTB) lưu thông tin: mã tìỉnh, năm và dân số trung bình của năm. Sau khi tìm hiểu cơ sở dữ liệu trên, một số học sinh đưa ra các ý kiến sau: A) Trường maKV là khóa ngoài của bảng KHUVUC.",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "S"
+      },
+      {
+        "number": "6",
+        "content": "Dữ liệu về dân số nước ta từ năm 2019 đến năm 2023 có trong niên giám số liệu thống kê của Tổng cục thống kê. Việc quản lí dữ liệu này có ý nghĩa quan trọng trong hoạch định một số chính sách quốc gia. Đề lưu trữ và khai thác dữ liệu về dân số hàng năm theo từng khu vực, có thể tạo cơ sở dữ liệu với các bảng sau: s KHUVUC (maKZ, tenKV): lưu thông tin mã khu vực và tên khu vực; mỗi khu vực có một mã khu vực duy nhất. s TINH (ma7ïnh, maKV, tenTinh): lưu thông tin mã tỉnh, mã khu vực và tên tỉnh; mỗi tỉnh chỉ thuộc về một khu vực và mỗi khu vực có thể có nhiều tỉnh. s DANSO (ma7Tinh, nam, danSoTB) lưu thông tin: mã tìỉnh, năm và dân số trung bình của năm. Sau khi tìm hiểu cơ sở dữ liệu trên, một số học sinh đưa ra các ý kiến sau: B) Nhóm hai trường ø:a7?nh và nam là khóa chính của bảng DANSO. ",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "7",
+        "content": "Dữ liệu về dân số nước ta từ năm 2019 đến năm 2023 có trong niên giám số liệu thống kê của Tổng cục thống kê. Việc quản lí dữ liệu này có ý nghĩa quan trọng trong hoạch định một số chính sách quốc gia. Đề lưu trữ và khai thác dữ liệu về dân số hàng năm theo từng khu vực, có thể tạo cơ sở dữ liệu với các bảng sau: s KHUVUC (maKZ, tenKV): lưu thông tin mã khu vực và tên khu vực; mỗi khu vực có một mã khu vực duy nhất. s TINH (ma7ïnh, maKV, tenTinh): lưu thông tin mã tỉnh, mã khu vực và tên tỉnh; mỗi tỉnh chỉ thuộc về một khu vực và mỗi khu vực có thể có nhiều tỉnh. s DANSO (ma7Tinh, nam, danSoTB) lưu thông tin: mã tìỉnh, năm và dân số trung bình của năm. Sau khi tìm hiểu cơ sở dữ liệu trên, một số học sinh đưa ra các ý kiến sau:  Chỉ cần liên kết hai bảng TINH và DANSO theo khóa ma7ïnh là có thể kết xuất được thông tin đầy đủ gồm: tên tỉnh, tên khu vực, năm và dân số trung bình của năm.",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "S"
+      },
+      {
+        "number": "8",
+        "content": "Dữ liệu về dân số nước ta từ năm 2019 đến năm 2023 có trong niên giám số liệu thống kê của Tổng cục thống kê. Việc quản lí dữ liệu này có ý nghĩa quan trọng trong hoạch định một số chính sách quốc gia. Đề lưu trữ và khai thác dữ liệu về dân số hàng năm theo từng khu vực, có thể tạo cơ sở dữ liệu với các bảng sau: s KHUVUC (maKZ, tenKV): lưu thông tin mã khu vực và tên khu vực; mỗi khu vực có một mã khu vực duy nhất. s TINH (ma7ïnh, maKV, tenTinh): lưu thông tin mã tỉnh, mã khu vực và tên tỉnh; mỗi tỉnh chỉ thuộc về một khu vực và mỗi khu vực có thể có nhiều tỉnh. s DANSO (ma7Tinh, nam, danSoTB) lưu thông tin: mã tìỉnh, năm và dân số trung bình của năm. Sau khi tìm hiểu cơ sở dữ liệu trên, một số học sinh đưa ra các ý kiến sau: D) Để đưa ra được thông tin gồm tên tỉnh, năm và dân số trung bình của năm 2020, có thể thực hiện câu truy vấn với các thành phần sau: © Các bảng và trường được chọn: TINH./tenTinh, DANSO.nam, DANSO.danSoTB. © Các bảng được liên kết qua khóa: TINH liên kết DANSO qua khóa za7inh. o Điều kiện kết xuất dữ liệu: DANSO.nam = 2020. B. Phần riêng Thí sinh chỉ được phép chọn một trong hai phần: Khoa học máy tính (",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "Đ"
+      }
+    ],
+    "true_false_special": [
+      {
+        "number": "1",
+        "content": "Hội chứng FOMO (Fear of Missing Out, sau đây gọi tắt là Hội chứng) là cảm giác lo âu, tiếc nuối khi nghĩ mình đang bỏ qua một điều gì đó thú vị, hấp dẫn, chẳng hạn như bỏ lỡ cơ hội mua một món đồ giảm giá nào đó. Nắm bắt được thực tế số lượng người mắc Hội chứng ngày càng nhiều, một công ty đã lên kế hoạch xây dựng hệ thống trí tuệ nhân tạo để dự đoán khả năng mắc Hội chứng. Công ty đã tạo bảng câu hỏi và thu thập dữ liệu khảo sát từ hơn 10 000 người đề làm dữ liệu huấn luyện mô hình. Kết quả cho thấy tỉ lệ người mắc Hội chứng là 35% và người chưa mắc là 65%. Trong khi thảo luận, một số nhân viên của công ty đưa ra các nhận định sau: A) Thông tin mắc và chưa mắc Hội chứng của mỗi người có thể được sử dụng làm nhãn của dữ liệu huấn luyện mô hình.",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "2",
+        "content": "Hội chứng FOMO (Fear of Missing Out, sau đây gọi tắt là Hội chứng) là cảm giác lo âu, tiếc nuối khi nghĩ mình đang bỏ qua một điều gì đó thú vị, hấp dẫn, chẳng hạn như bỏ lỡ cơ hội mua một món đồ giảm giá nào đó. Nắm bắt được thực tế số lượng người mắc Hội chứng ngày càng nhiều, một công ty đã lên kế hoạch xây dựng hệ thống trí tuệ nhân tạo để dự đoán khả năng mắc Hội chứng. Công ty đã tạo bảng câu hỏi và thu thập dữ liệu khảo sát từ hơn 10 000 người đề làm dữ liệu huấn luyện mô hình. Kết quả cho thấy tỉ lệ người mắc Hội chứng là 35% và người chưa mắc là 65%. Trong khi thảo luận, một số nhân viên của công ty đưa ra các nhận định sau: B) Không cần sử dụng các phương pháp tiền xử lý để làm sạch tập dữ liệu đã thu thập nói trên trước khi đưa vào huấn luyện mô hình. ",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "S"
+      },
+       {
+        "number": "3",
+        "content": "Hội chứng FOMO (Fear of Missing Out, sau đây gọi tắt là Hội chứng) là cảm giác lo âu, tiếc nuối khi nghĩ mình đang bỏ qua một điều gì đó thú vị, hấp dẫn, chẳng hạn như bỏ lỡ cơ hội mua một món đồ giảm giá nào đó. Nắm bắt được thực tế số lượng người mắc Hội chứng ngày càng nhiều, một công ty đã lên kế hoạch xây dựng hệ thống trí tuệ nhân tạo để dự đoán khả năng mắc Hội chứng. Công ty đã tạo bảng câu hỏi và thu thập dữ liệu khảo sát từ hơn 10 000 người đề làm dữ liệu huấn luyện mô hình. Kết quả cho thấy tỉ lệ người mắc Hội chứng là 35% và người chưa mắc là 65%. Trong khi thảo luận, một số nhân viên của công ty đưa ra các nhận định sau: Mô hình học máy phù hợp nhất được sử dụng để xây dựng hệ thống dự đoán trong tình huống này là mô hình Học có giám sát.",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "4",
+        "content": "Hội chứng FOMO (Fear of Missing Out, sau đây gọi tắt là Hội chứng) là cảm giác lo âu, tiếc nuối khi nghĩ mình đang bỏ qua một điều gì đó thú vị, hấp dẫn, chẳng hạn như bỏ lỡ cơ hội mua một món đồ giảm giá nào đó. Nắm bắt được thực tế số lượng người mắc Hội chứng ngày càng nhiều, một công ty đã lên kế hoạch xây dựng hệ thống trí tuệ nhân tạo để dự đoán khả năng mắc Hội chứng. Công ty đã tạo bảng câu hỏi và thu thập dữ liệu khảo sát từ hơn 10 000 người đề làm dữ liệu huấn luyện mô hình. Kết quả cho thấy tỉ lệ người mắc Hội chứng là 35% và người chưa mắc là 65%. Trong khi thảo luận, một số nhân viên của công ty đưa ra các nhận định sau: D) Khi xuất hiện biểu hiện lo âu, tiếc nuối, người ta chỉ cần sử dụng hệ thống dự đoán của công ty nói trên để biết được chính xác mình có mắc Hội chứng hay không.",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "S"
+      },
+      {
+        "number": "5",
+        "content": "Cho hàm sau đây được viết bằng ngôn ngữ lập trình Python và C++: Dòng Hàm viết bằng ngôn ngữ Python Hàm viết bằng ngôn ngữ C++ 1 Jldef F(A, n): float F(int A[], int n) { 2 for i íin range(1, n): for (inti=1l; i <n; i++) { 3 x = A[i] int x = A[i]; 4 4Ả=i-1 int 3 =i - 1; ợi while j >= 0 and A[j] > x: while (j >= 0 && A[j] > x) { 6 AItj + 1] = AI3] A[j + 1] = A[3]; 7 4Ả=3 =- 1 3= 3j = 1; 8 A[j+1l] =x } 9 return (A[n // 2] + Ain - 1]) / 2 A[j + 1] = x; 10 } 11 return (A[n / 2] + A[n - 1]) / 2.0; 12 } Sau khi chọn một trong hal ngôn ngữ Python hoặc C++ đề tìm hiểu hàm trên, một số bạn học sinh đã nêu các ý kiến sau: A) Máng A biểu diễn cầu trúc dữ heu ngăn xep (Stack).",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "S"
+      },
+      {
+        "number": "6",
+        "content": "Cho hàm sau đây được viết bằng ngôn ngữ lập trình Python và C++: Dòng Hàm viết bằng ngôn ngữ Python Hàm viết bằng ngôn ngữ C++ 1 Jldef F(A, n): float F(int A[], int n) { 2 for i íin range(1, n): for (inti=1l; i <n; i++) { 3 x = A[i] int x = A[i]; 4 4Ả=i-1 int 3 =i - 1; ợi while j >= 0 and A[j] > x: while (j >= 0 && A[j] > x) { 6 AItj + 1] = AI3] A[j + 1] = A[3]; 7 4Ả=3 =- 1 3= 3j = 1; 8 A[j+1l] =x } 9 return (A[n // 2] + Ain - 1]) / 2 A[j + 1] = x; 10 } 11 return (A[n / 2] + A[n - 1]) / 2.0; 12 } Sau khi chọn một trong hal ngôn ngữ Python hoặc C++ đề tìm hiểu hàm trên, một số bạn học sinh đã nêu các ý kiến sau: B) Nếu dữ liệu đầu vào là mảng A gồm n phần tử đã được sắp xếp theo chiều không giảm thì các câu lệnh tại Dòng 6 và Dc>ng 7 được thực hiện n lần.",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "S"
+      },
+      {
+        "number": "7",
+        "content": "Cho hàm sau đây được viết bằng ngôn ngữ lập trình Python và C++: Dòng Hàm viết bằng ngôn ngữ Python Hàm viết bằng ngôn ngữ C++ 1 Jldef F(A, n): float F(int A[], int n) { 2 for i íin range(1, n): for (inti=1l; i <n; i++) { 3 x = A[i] int x = A[i]; 4 4Ả=i-1 int 3 =i - 1; ợi while j >= 0 and A[j] > x: while (j >= 0 && A[j] > x) { 6 AItj + 1] = AI3] A[j + 1] = A[3]; 7 4Ả=3 =- 1 3= 3j = 1; 8 A[j+1l] =x } 9 return (A[n // 2] + Ain - 1]) / 2 A[j + 1] = x; 10 } 11 return (A[n / 2] + A[n - 1]) / 2.0; 12 } Sau khi chọn một trong hal ngôn ngữ Python hoặc C++ đề tìm hiểu hàm trên, một số bạn học sinh đã nêu các ý kiến sau: C) Nếu dữ liệu đầu vào là n = 6 và mảng A là (6, 4, 2, 1, 3, 5) thì sau khi câu lệnh for tại Dòng 2 thực hiện lần lặp thứ 2, giá trị của mảng A là(2,4,6,1,3,5).",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "8",
+        "content": "Cho hàm sau đây được viết bằng ngôn ngữ lập trình Python và C++: Dòng Hàm viết bằng ngôn ngữ Python Hàm viết bằng ngôn ngữ C++ 1 Jldef F(A, n): float F(int A[], int n) { 2 for i íin range(1, n): for (inti=1l; i <n; i++) { 3 x = A[i] int x = A[i]; 4 4Ả=i-1 int 3 =i - 1; ợi while j >= 0 and A[j] > x: while (j >= 0 && A[j] > x) { 6 AItj + 1] = AI3] A[j + 1] = A[3]; 7 4Ả=3 =- 1 3= 3j = 1; 8 A[j+1l] =x } 9 return (A[n // 2] + Ain - 1]) / 2 A[j + 1] = x; 10 } 11 return (A[n / 2] + A[n - 1]) / 2.0; 12 } Sau khi chọn một trong hal ngôn ngữ Python hoặc C++ đề tìm hiểu hàm trên, một số bạn học sinh đã nêu các ý kiến sau: D) Nếu dữ liệu đầu vào là n = 7 và mảng A là (8, 6, 4, 2, 3, 5, 7) thì hàm trả về giá trị 6.5. B2. Tin học ứng dụng",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "9",
+        "content": "Một trường phổ thông muốn sử dụng một phần mềm đề xây fflrng một website đưa thông tin về hoạt động của các câu lạc bộ (CLB) trong nhà trường. Website có câu trúc như sau: Ph2ìn đầu trang chứa hình ảnh logo của trường; thanh banner chứa hình ảnh về hoạt động của các CLB; thanh điều hướng gồm ba mục chính Giới thiệu, Hoạt động và Các sự kiện. Ứng với mỗi mục chính sẽ có các mục con có nhãn là tên các CLB và chứa liên kết đến trang web của CLB tương ứng. Trong khi thảo luận về việc sử r dụng phần mềm để xây dựng website này, một số bạn học sinh đưa ra ý kiến như sau: A) Phần mem tạo trang web có sẵn mẫu bố cục trang web đề thiết kế các phan cho website của trường.",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "10",
+        "content": "Một trường phổ thông muốn sử dụng một phần mềm đề xây fflrng một website đưa thông tin về hoạt động của các câu lạc bộ (CLB) trong nhà trường. Website có câu trúc như sau: Ph2ìn đầu trang chứa hình ảnh logo của trường; thanh banner chứa hình ảnh về hoạt động của các CLB; thanh điều hướng gồm ba mục chính Giới thiệu, Hoạt động và Các sự kiện. Ứng với mỗi mục chính sẽ có các mục con có nhãn là tên các CLB và chứa liên kết đến trang web của CLB tương ứng. Trong khi thảo luận về việc sử r dụng phần mềm để xây dựng website này, một số bạn học sinh đưa ra ý kiến như sau: B) Phần mềm tạo trang web cho phép thay thế ảnh có sẵn của mẫu bằng ảnh về hoạt động của các CLB. ",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "11",
+        "content": "Một trường phổ thông muốn sử dụng một phần mềm đề xây fflrng một website đưa thông tin về hoạt động của các câu lạc bộ (CLB) trong nhà trường. Website có câu trúc như sau: Ph2ìn đầu trang chứa hình ảnh logo của trường; thanh banner chứa hình ảnh về hoạt động của các CLB; thanh điều hướng gồm ba mục chính Giới thiệu, Hoạt động và Các sự kiện. Ứng với mỗi mục chính sẽ có các mục con có nhãn là tên các CLB và chứa liên kết đến trang web của CLB tương ứng. Trong khi thảo luận về việc sử r dụng phần mềm để xây dựng website này, một số bạn học sinh đưa ra ý kiến như sau: Các mục con có nhãn là tên các CLB bắt buộc phải hiển thị trên thanh điều hướng của trang chủ.",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "S"
+      },
+      {
+        "number": "12",
+        "content": "Một trường phổ thông muốn sử dụng một phần mềm đề xây fflrng một website đưa thông tin về hoạt động của các câu lạc bộ (CLB) trong nhà trường. Website có câu trúc như sau: Ph2ìn đầu trang chứa hình ảnh logo của trường; thanh banner chứa hình ảnh về hoạt động của các CLB; thanh điều hướng gồm ba mục chính Giới thiệu, Hoạt động và Các sự kiện. Ứng với mỗi mục chính sẽ có các mục con có nhãn là tên các CLB và chứa liên kết đến trang web của CLB tương ứng. Trong khi thảo luận về việc sử r dụng phần mềm để xây dựng website này, một số bạn học sinh đưa ra ý kiến như sau: D) Để có thể xem được video về hoạt động của các CLB trên website, phải đồng thời thực hiện hai việc: tải video lên máy chủ chứa trang web và nhúng liên kết tới video đó trên YouTube.",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "S"
+      },
+      {
+        "number": "13",
+        "content": "Trong niên giám số liệu thống kê có dữ liệu từ năm 2019 đến năm 2023 về tống vốn đăng kí đầu tư trực tiếp nước ngoài, được cấp phép phân theo địa phương (có hiệu lực đến 31/12/2023). Cần tạo cơ sở dữ liệu với các bảng sau để lưu trữ và khai thác nguôn dữ liệu này. s KHUVUC (maKÿ, tenKV): lưu thông tin mã khu vực và tên khu vực; mỗi khu vực có một mã khu vực duy nhất. s DIAPHUONG (maDP, tenDP, maKV): lưu thông tin mã địa phương, tên địa phương và mã khu vực; mỗi địa phương chỉ thuộc một khu vực và mỗi khu vực có thể có một số địa phương. s DAUTU (maDP, nam, tongVon): lưu thông tin mã địa phương, năm và tổng vốn đăng kí đầu tư theo địa phương trong năm. Sau khi tìm meu các phần mềm để quản trị cơ sở dữ liệu trên, một số bạn học sinh đưa ra các ý kiến sau: A) Phần mềm bảng tính có thể lưu trữ cơ sở dữ liệu đã nêu trong một trang tính duy nhất gồm các cột: maK7, tenKT, maDP, tenDP, nam, tongVon.",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "14",
+        "content": "Trong niên giám số liệu thống kê có dữ liệu từ năm 2019 đến năm 2023 về tổng vốn đăng kí đầu tư trực tiếp nước ngoài, được cấp phép phân theo địa phương (có hiệu lực đến 31/12/2023). Cần tạo cơ sở dữ liệu với các bảng sau để lưu trữ và khai thác nguồn dữ liệu này. s KHUVUC (maKV, tenKV): lưu thông tin mã khu vực và tên khu vực; mỗi khu vực có một mã khu vực duy nhất. s DIAPHUONG (maDP, tenDP, maKV): lưu thông tin mã địa phương, tên địa phương và mã khu vực; mỗi địa phương chỉ thuộc một khu vực và mỗi khu vực có thể có một số địa phương. s DAUTU (maDP, nam, tongVon): lưu thông tin mã địa phương, năm và tổng vốn đăng kí đầu tư theo địa phương trong năm. Sau khi tìm hiểu các phần mềm để quản trị cơ sở dữ liệu trên, một số bạn học sinh đưa ra các ý kiến sau: B) Khi tạo bảng DAUTU trong phần mềm quản trị cơ sở dữ liệu, chọn trường maDP rồi thiết lập trường này làm khóa chính của bảng.",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "S"
+      },
+      {
+        "number": "15",
+        "content": "Trong niên giám số liệu thống kê có dữ liệu từ năm 2019 đến năm 2023 về tống vốn đăng kí đầu tư trực tiếp nước ngoài, được cấp phép phân theo địa phương (có hiệu lực đến 31/12/2023). Cần tạo cơ sở dữ liệu với các bảng sau để lưu trữ và khai thác nguôn dữ liệu này. s KHUVUC (maKÿ, tenKV): lưu thông tin mã khu vực và tên khu vực; mỗi khu vực có một mã khu vực duy nhất. s DIAPHUONG (maDP, tenDP, maKV): lưu thông tin mã địa phương, tên địa phương và mã khu vực; mỗi địa phương chỉ thuộc một khu vực và mỗi khu vực có thể có một số địa phương. s DAUTU (maDP, nam, tongVon): lưu thông tin mã địa phương, năm và tổng vốn đăng kí đầu tư theo địa phương trong năm. Sau khi tìm hiểu các phần mềm để quản trị cơ sở dữ liệu trên, một số bạn học sinh đưa ra các ý kiến sau: C) C) Trong phần mềm quản trị cơ sở dữ liệu, mối quan hệ của 3 bảng đã cho được thiết lập dựa trên việc liên kết từ bảng KHUVUC đến bảng DIAPHUONG và liên kết từ bảng KHUVUC đến bảng DAUTU.",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "S"
+      },
+      {
+        "number": "16",
+        "content": "Trong niên giám số liệu thống kê có dữ liệu từ năm 2019 đến năm 2023 về tống vốn đăng kí đầu tư trực tiếp nước ngoài, được cấp phép phân theo địa phương (có hiệu lực đến 31/12/2023). Cần tạo cơ sở dữ liệu với các bảng sau để lưu trữ và khai thác nguôn dữ liệu này. s KHUVUC (maKÿ, tenKV): lưu thông tin mã khu vực và tên khu vực; mỗi khu vực có một mã khu vực duy nhất. s DIAPHUONG (maDP, tenDP, maKV): lưu thông tin mã địa phương, tên địa phương và mã khu vực; mỗi địa phương chỉ thuộc một khu vực và mỗi khu vực có thể có một số địa phương. s DAUTU (maDP, nam, tongVon): lưu thông tin mã địa phương, năm và tổng vốn đăng kí đầu tư theo địa phương trong năm. Sau khi tìm meu các phần mềm để quản trị cơ sở dữ liệu trên, một số bạn học sinh đưa ra các ý kiến sau: D) Để đưa ra thông tin gồm tên khu vực, tên địa phương, năm và tổng vốn đăng kí đầu tư theo địa phương trong năm, có thể thực hiện truy vấn sau: SELECT KHUVUC.tenKV, DIAPHUONG.tenDP, DAUTU.nam, DAUTU.tongVon FROM KHUVUC INNER JOIN (DIAPHUONG INNER JOIN DAUTU ON DIAPHUONG.maDP = DAUTU.maDP) ON KHUVUC.maKV = DIAPHUONG.maKV",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "Đ"
+      }
+    ]
+  },
+  "0503": {
+    "multiple_choice": [
+      {
+        "number": "1",
+        "content": "Thuộc tính CSS nào sau đây thiết lập cỡ chữ cho văn bản?",
+        "options": [
+          {
+            "label": "A",
+            "content": "text-indent"
+          },
+          {
+            "label": "B",
+            "content": "font-family"
+          },
+          {
+            "label": "C",
+            "content": "font-size"
+          },
+          {
+            "label": "D",
+            "content": "text-align"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "C"
+      },
+      {
+        "number": "2",
+        "content": "Thẻ HTML nào sau đây được dùng đề tạo danh sách có thứ tự?",
+        "options": [
+          {
+            "label": "A",
+            "content": "<table>"
+          },
+          {
+            "label": "B",
+            "content": "<1i:>"
+          },
+          {
+            "label": "C",
+            "content": "<ol>"
+          },
+          {
+            "label": "D",
+            "content": "<u1l>"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "C"
+      },
+      {
+        "number": "3",
+        "content": "Cho đoạn mã HTML sau: <table border=\"1\" width=\"50%\" height=\"10%\"> <tr> <th> </th> <th> </th> <th> </th> </tr> <tr> <td> </td> <td> </td> <td> </td> </tr> </table> Phương án nào sau đây nêu đúng số lượng hàng và cột của bảng được tạo bởi đoạn mã trên?",
+        "options": [
+          {
+            "label": "A",
+            "content": "2 hàng, 3 cột."
+          },
+          {
+            "label": "B",
+            "content": "2hàng, 2 cột."
+          },
+          {
+            "label": "C",
+            "content": "3 hàng, 2 cột."
+          },
+          {
+            "label": "D",
+            "content": "3hàng, 3 cột."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "4",
+        "content": "Khi thực hiện đoạn mã HTML sau, dòng chữ \"Chúc các em thi tốt!\" sẽ được hiển thị trên trình duyệt theo định dạng nào dưới đây? <html><head><style> .mau{color: green; font-weight: bold;} #mau{color: yellow; font-style: italic;} </style></head><body><p id=\"mau\">Chúc các em thi tốt!</p></body></html>",
+        "options": [
+          {
+            "label": "A",
+            "content": "Màu vàng, in đậm."
+          },
+          {
+            "label": "B",
+            "content": "Màu xanh lá cây, in nghiêng."
+          },
+          {
+            "label": "C",
+            "content": "Màu vàng, in nghiêng."
+          },
+          {
+            "label": "D",
+            "content": "Màu xanh lá cây, in đậm."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "C"
+      },
+      {
+        "number": "5",
+        "content": "Tiêu đề của trang web được khai báo trong phần tử HTML nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "p"
+          },
+          {
+            "label": "B",
+            "content": "title"
+          },
+          {
+            "label": "C",
+            "content": "ntm"
+          },
+          {
+            "label": "D",
+            "content": "body"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "B"
+      },
+      {
+        "number": "6",
+        "content": "Một người lạ bắt chuyện qua mạng xã hội và giới thiệu cơ hội \"việc nhẹ lương cao\" cho một học sinh. Tuy nhiên, để nhận công việc này phải nộp trước một số tiền đặt cọc giữ chỗ. Trong tình huống này, ứng xử nào sau đây của bạn học sinh không an toàn trên không gian mạng?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Xác minh thông tin một cách cẩn trọng."
+          },
+          {
+            "label": "B",
+            "content": "Bỏ qua tin nhắn và cảnh báo cho bạn bè."
+          },
+          {
+            "label": "C",
+            "content": "Trình báo cho công an về dấu hiệu lừa đảo."
+          },
+          {
+            "label": "D",
+            "content": "Nộp tiền đặt cọc ngay theo yêu cầu."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "7",
+        "content": "Khi đọc được thông tin về một khu vực vừa bị thiên tai trên một trang báo điện tử uy tín, hành động nào sau đây không thể hiện tính nhân văn trên không gian mạng?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Đăng tải lại hình ảnh thiên tai trên trang cá nhân đề tăng lượt tương tác."
+          },
+          {
+            "label": "B",
+            "content": "Gửi lời chia buồn và động viên những người bị ảnh hưởng từ thiên tai."
+          },
+          {
+            "label": "C",
+            "content": "Tham gia các nhóm từ thiện trực tuyến để tìm hiểu và hỗ trợ thiết thực."
+          },
+          {
+            "label": "D",
+            "content": "Kêu gọi giúp đỡ từ cộng đồng nếu xác minh được thông tin là chính xác."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "8",
+        "content": "Đoạn mã CSS nào sau đây thiết lập hình ảnh và văn bản được hiển thị theo khốï?",
+        "options": [
+          {
+            "label": "A",
+            "content": "img, p {display: block;}"
+          },
+          {
+            "label": "B",
+            "content": "ing, p (display: none;}"
+          },
+          {
+            "label": "C",
+            "content": "img, p {display: inline;}"
+          },
+          {
+            "label": "D",
+            "content": "ing, p (display: flex;}"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "9",
+        "content": "Lĩnh vực tin học nào sau đây tập trung vào việc nghiên cứu và phát triển các phần mềm làm cho máy tính ngày càng thông minh như con người?",
+        "options": [
+          {
+            "label": "A",
+            "content": "An toàn thông tin."
+          },
+          {
+            "label": "B",
+            "content": "Mạng máy tính."
+          },
+          {
+            "label": "C",
+            "content": "Trí tuệ nhân tạo."
+          },
+          {
+            "label": "D",
+            "content": "Internet vạn vật."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "C"
+      },
+      {
+        "number": "10",
+        "content": "Thiết bị nào sau đây có chức năng chính là thiết lập kênh kết nối giữa các thiết bị trong mạng LAN (có dây) để truyền dữ liệu?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Modem."
+          },
+          {
+            "label": "B",
+            "content": "Access Point."
+          },
+          {
+            "label": "C",
+            "content": "Router."
+          },
+          {
+            "label": "D",
+            "content": "Switch."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "11",
+        "content": "Trong lĩnh vực y tế, Trí tuệ nhân tạo được ứng dụng phố biến trong hệ thống nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Tự động hóa hoàn toàn việc kê đơn thuốc cho bệnh nhân."
+          },
+          {
+            "label": "B",
+            "content": "Hỗ trợ bác sĩ chẩn đoán bệnh dựa trên hình ảnh X-quang."
+          },
+          {
+            "label": "C",
+            "content": "Tự động hóa hoàn toàn việc thẩm định các loại thuốc mới."
+          },
+          {
+            "label": "D",
+            "content": "ln phiếu thứ tự khám bệnh cho bệnh nhân tại các phòng khám."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "B"
+      },
+      {
+        "number": "12",
+        "content": "Đoạn mã CSS nào sau đây thiết lập đường viền có độ dày 3 pixel, kiểu nét đứt bao quanh các đối tượng nội dung khi hiển thị trên trình duyệt?",
+        "options": [
+          {
+            "label": "A",
+            "content": "p {border-width: 3px; border-style: double;}"
+          },
+          {
+            "label": "B",
+            "content": "p.border {border-width: 3px; border-style: groove;}"
+          },
+          {
+            "label": "C",
+            "content": "p (border-width: 3px; border-style: dashed;}"
+          },
+          {
+            "label": "D",
+            "content": "p.border {border-width: 3px; border-style: double;}"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "C"
+      },
+      {
+        "number": "13",
+        "content": "Hành vi nào sau đây không phù hợp với đạo đức trong môi trường số?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Cổ vũ cho những việc làm tốt đề lan tỏa đến mọi người."
+          },
+          {
+            "label": "B",
+            "content": "Trao đổi ý kiến thẳng thắn nhưng mang tính xây dựng."
+          },
+          {
+            "label": "C",
+            "content": "Phát tán tin đồn chưa được kiểm chứng về người khác."
+          },
+          {
+            "label": "D",
+            "content": "Chia sẻ kiến thức có ích kèm theo nguồn trích dẫn."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "C"
+      },
+      {
+        "number": "14",
+        "content": "Đoạn mã HTML nào sau đây định dạng dòng chữ \"TN THPT 2025\" thành in đậm, riêng số 2025 còn được in nghiêng?",
+        "options": [
+          {
+            "label": "A",
+            "content": "<p><em>TN THPT <strong>2025</strong></em></p>"
+          },
+          {
+            "label": "B",
+            "content": "<p><em>TN THPT </em><strong>2025</strong></p>"
+          },
+          {
+            "label": "C",
+            "content": "<p><em><strong>TN THPT 2025</strong></em></p>"
+          },
+          {
+            "label": "D",
+            "content": "<p><strong>TN THPT <em>2025</em></strong></p>"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "15",
+        "content": "Router có chức năng chính nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Tìm đường đi tối ưu để truyền các gói dữ liệu giữa các mạng."
+          },
+          {
+            "label": "B",
+            "content": "Chuyển đổi giữa tín hiệu tương tự và tín hiệu số qua mạng."
+          },
+          {
+            "label": "C",
+            "content": "Kết nối các thiết bị bằng song vô myen trong mạng cục bộ."
+          },
+          {
+            "label": "D",
+            "content": "Phát tín hiệu đến tất cả các cồng kết nối trong mạng LAN."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "16",
+        "content": "Phương án nào sau đây chỉ ra lý do chủ yếu dẫn tới nhu cầu gia tăng về số lượng chuyên gia bảo mật hệ thống thông tin?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Sự phổ biến của các ứng dụng soạn thảo văn bản."
+          },
+          {
+            "label": "B",
+            "content": "Tốc độ xử lý của CPU ngày càng tăng nhanh."
+          },
+          {
+            "label": "C",
+            "content": "Tính phức tạp ngày càng tăng của các cuộc tấn công mạng."
+          },
+          {
+            "label": "D",
+            "content": "Dung lượng của các thiết bị lưu trữ ngày càng tăng nhanh."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "C"
+      },
+      {
+        "number": "17",
+        "content": "Người làm nghề sửa chữa và bảo trì máy tính phải có kiến thức về lĩnh vực nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Lập trình nhúng."
+          },
+          {
+            "label": "B",
+            "content": "Phần cứng máy tính."
+          },
+          {
+            "label": "C",
+            "content": "An toàn thông tin."
+          },
+          {
+            "label": "D",
+            "content": "Cơ sở dữ liệu."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "B"
+      },
+      {
+        "number": "18",
+        "content": "Lựa chọn ngôn ngữ Python hoặc C++ để tìm hiểu đoạn chương trình sau: DĐòng Đoạn chương trình viết bằng Python Đoạn chương trình viết bằng C++ 1 S = \"TRI_TUE_NHAN_TAO\" char s[] = \"TRI_TUE NHAN TAO\"; 2 x=9 int x = 9; 3 for i in range(8, 10): for (int i = 6; i < 10; i+r+) { 4 if®iS%2=.0:x=x*2 if (1$ 2 = 0) x= x * 2; l else: x=x // 3 else x = x / 3; 6 print(six]) } 7 cout << s[x]; Sau khi thực hiện đoạn chương trình trên, kí tự nào sau đây được hiển thị trên màn hình?",
+        "options": [
+          {
+            "label": "A",
+            "content": "R"
+          },
+          {
+            "label": "B",
+            "content": "E"
+          },
+          {
+            "label": "C",
+            "content": "U"
+          },
+          {
+            "label": "D",
+            "content": "T"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "B"
+      },
+      {
+        "number": "19",
+        "content": "Người quản trị mạng thực hiện công việc chính nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Nghiên cứu và phát triển các phần mềm."
+          },
+          {
+            "label": "B",
+            "content": "Xây dựng các ứng dụng trên mạng."
+          },
+          {
+            "label": "C",
+            "content": "Tư vấn nâng cấp các thiết bị phần cứng."
+          },
+          {
+            "label": "D",
+            "content": "Thiết lập và cấu hình hệ thông mạng."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "20",
+        "content": "Lựa chọn ngôn ngữ Python hoặc C++ để tìm hiều đoạn chương trình sau: Đòng Đoạn chương trình viết bằng Python 1 n,i,S=9,5,0 2 while i < n: 3 S = S + i 4 i=zi+2 5 print(S) 6 Đoạn chương trình viết bằng C++ intn=9,i=5, S= 0; while (i <n) ({ S=S + i; i= i + 27 } cout << S; Phương án nào sau đây chỉ ra đúng số lần lặp của câu lệnh whi 1e ở Dòng 2?",
+        "options": [
+          {
+            "label": "A",
+            "content": "1."
+          },
+          {
+            "label": "B",
+            "content": "3."
+          },
+          {
+            "label": "C",
+            "content": "0."
+          },
+          {
+            "label": "D",
+            "content": "2."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "21",
+        "content": "Cách ứng xử nào sau đây phù hợp đối với kết quả được tạo ra bởi Trí tuệ nhân tạo?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Xem xét một cách thận trọng và có trách nhiệm."
+          },
+          {
+            "label": "B",
+            "content": "Giữ nguyên đề làm sản phẩm học tập và nghiên cứu."
+          },
+          {
+            "label": "C",
+            "content": "Chia sẻ ra cộng đồng mà không cần kiểm chứng."
+          },
+          {
+            "label": "D",
+            "content": "Tin tưởng hoàn toàn vào tính chính xác và khách quan."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "22",
+        "content": "Khả năng hiều ngôn ngữ của Trí tuệ nhân tạo không thể hiện trong hệ thống nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Trợ giúp soạn thảo văn bản."
+          },
+          {
+            "label": "B",
+            "content": "Tổng đài tự động hỏi đáp."
+          },
+          {
+            "label": "C",
+            "content": "Nhận diện khuôn mặt."
+          },
+          {
+            "label": "D",
+            "content": "Trợ lý ảo trên xe ô tô."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "C"
+      },
+      {
+        "number": "23",
+        "content": "Trong bộ giao thức TCP/IP, giao thức IP đảm nhận vai trò nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Định tuyến các gfoỉ dữ liệu đến đúng địa chỉ mạng."
+          },
+          {
+            "label": "B",
+            "content": "Cấp phat địa chỉ IP cho các thiết bị trong mạng."
+          },
+          {
+            "label": "C",
+            "content": "Thiết lập bộ quy tắc gửi và nhận thư điện tử qua mạng.."
+          },
+          {
+            "label": "D",
+            "content": "Truyền tải an toàn dữ liệu giữa các thiết bị."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "24",
+        "content": "Một công ty có hai chỉ nhánh ở cách nhau khoảng 10 km. Các máy tính ở mỗi chi nhánh đã được kết nối thành một mạng LAN riêng. Thiết bị nào sau đây là phù hợp nhất đề kết nối hai mạng riêng này thành một mạng chung?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Access Point."
+          },
+          {
+            "label": "B",
+            "content": "Switch."
+          },
+          {
+            "label": "C",
+            "content": "Modem."
+          },
+          {
+            "label": "D",
+            "content": "Router."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      }
+    ],
+    "true_false_common": [
+      {
+        "number": "1",
+        "content": "Một gia đình chuyển đến căn nhà mới có bồn tằng. Họ được nhà cung cấp dịch vụ viễn thông hxp đặt một Modem để sử dụng Internet trong nhà. Các thành viên trong gia đình thường sử dụng điện thoại thông minh đề truy cập Internet, tuy nhiên, tín hiệu Internet không ồổn định tại một số phòng. Hơn nữa, gia đình còn có nhu câu sử dụng Internet trên các máy tính để bàn không có chức năng kết nối mạng không dây. Các thành viên trong gia đình đã đưa ra các ý kiến sau: A) Việc truy cập Internet bằng điện thoại thông minh mà không dùng dữ liệu mạng di động chứng tỏ Modem của gia đình đã được tích hợp chức năng phát Wi-Ei.",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "2",
+        "content": "Một gia đình chuyển đến căn nhà mới có bồn tằng. Họ được nhà cung cấp dịch vụ viễn thông hxp đặt một Modem để sử dụng Internet trong nhà. Các thành viên trong gia đình thường sử dụng điện thoại thông minh đề truy cập Internet, tuy nhiên, tín hiệu Internet không ồổn định tại một số phòng. Hơn nữa, gia đình còn có nhu câu sử dụng Internet trên các máy tính để bàn không có chức năng kết nối mạng không dây. Các thành viên trong gia đình đã đưa ra các ý kiến sau: B) Đề tránh tình trạng tín hiệu Internet không ổn định trong một số phòng, có thể dùng thêm Access Point để kết nối với Modem và đặt Access Point này ở vị trí gần các phòng đó.",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "3",
+        "content": "Một gia đình chuyển đến căn nhà mới có bồn tằng. Họ được nhà cung cấp dịch vụ viễn thông hxp đặt một Modem để sử dụng Internet trong nhà. Các thành viên trong gia đình thường sử dụng điện thoại thông minh đề truy cập Internet, tuy nhiên, tín hiệu Internet không ồổn định tại một số phòng. Hơn nữa, gia đình còn có nhu câu sử dụng Internet trên các máy tính để bàn không có chức năng kết nối mạng không dây. Các thành viên trong gia đình đã đưa ra các ý kiến sau: C) Nếu gia đình muốn sử dụng Internet bằng máy tính để bàn thì cách đơn giản nhất là dùng cáp mạng đề kết nối giữa máy tính đó với Modem.",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "4",
+        "content": "Một gia đình chuyển đến căn nhà mới có bồn tằng. Họ được nhà cung cấp dịch vụ viễn thông hxp đặt một Modem để sử dụng Internet trong nhà. Các thành viên trong gia đình thường sử dụng điện thoại thông minh đề truy cập Internet, tuy nhiên, tín hiệu Internet không ồổn định tại một số phòng. Hơn nữa, gia đình còn có nhu câu sử dụng Internet trên các máy tính để bàn không có chức năng kết nối mạng không dây. Các thành viên trong gia đình đã đưa ra các ý kiến sau: D) Đề tất cả các máy tính để bàn truy cập được Internet, gia đình cần kết nối các máy tính đó với nhau thông qua một Switch nhưng khong kết n01 Switch với Modem.",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "S"
+      },
+      {
+        "number": "5",
+        "content": "Dữ liệu về thời tiết ở nước ta từ năm 2019 đến năm 2023 có trong niên giám số liệu thống kê của Tổng cục thống kê. Nguồn dữ liệu này được thu thập từ các trạm quan trắc đặt tại nhiều địa điểm khác nhau. Trong đó, lượng mưa L từng tháng và nhiệt độ trung bình hàng năm là các dữ liệu thường được quan tâm nhiều nhất. Để lưu trữ và khai thác nguồn dữ liệu này, có thể tạo cơ sở dữ liệu với các bảng sau: s TRAM (maTram, tenTram): lưu thông tin mã trạm quan trắc và tên trạm quan trắc; mỗi trạm có một mã duy nhất. s MUA (maTram, nam, thang, luongAu A) : lưu thông tin mã trạm quan trắc, năm, tháng và lượng mưa của tháng trong năm. s NHIETDO (naTram, nam, nhietDoTB): lưu thông tin mã trạm quan trắc, năm và nhiệt độ trung bình của năm. Sau khi tìm hiểu cơ sở dữ liệu trên, một số bạn học sinh đưa ra các nhận xét sau:",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "6",
+        "content": "Dữ liệu về thời tiết ở nước ta từ năm 2019 đến năm 2023 có trong niên giám số liệu thống kê của Tổng cục thống kê. Nguồn dữ liệu này được thu thập từ các trạm quan trắc đặt tại nhiều địa điểm khác nhau. Trong đó, lượng mưa L từng tháng và nhiệt độ trung bình hàng năm là các dữ liệu thường được quan tâm nhiều nhất. Để lưu trữ và khai thác nguồn dữ liệu này, có thể tạo cơ sở dữ liệu với các bảng sau: s TRAM (maTram, tenTram): lưu thông tin mã trạm quan trắc và tên trạm quan trắc; mỗi trạm có một mã duy nhất. s MUA (maTram, nam, thang, luongAu A) Trường /saTram là khóa chính của bảng TRAM.",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "S"
+      },
+      {
+        "number": "7",
+        "content": "Dữ liệu về thời tiết ở nước ta từ năm 2019 đến năm 2023 có trong niên giám số liệu thống kê của Tổng cục thống kê. Nguồn dữ liệu này được thu thập từ các trạm quan trắc đặt tại nhiều địa điểm khác nhau. Trong đó, lượng mưa L từng tháng và nhiệt độ trung bình hàng năm là các dữ liệu thường được quan tâm nhiều nhất. Để lưu trữ và khai thác nguồn dữ liệu này, có thể tạo cơ sở dữ liệu với các bảng sau: s TRAM (maTram, tenTram): lưu thông tin mã trạm quan trắc và tên trạm quan trắc; mỗi trạm có một mã duy nhất. s MUA (maTram, nam, thang, luongAu B) Nhóm hai trường z:aTram và nam là khóa chính của bảng MUA. e) Chỉ cần liên kết hai bảng TRAM và MUA theo khóa /a7Yam là có thể kết xuất được thông tin gồm: tên trạm quan trắc, năm, tháng và lượng mưa của tháng trong năm.",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "8",
+        "content": "Dữ liệu về thời tiết ở nước ta từ năm 2019 đến năm 2023 có trong niên giám số liệu thống kê của Tổng cục thống kê. Nguồn dữ liệu này được thu thập từ các trạm quan trắc đặt tại nhiều địa điểm khác nhau. Trong đó, lượng mưa L từng tháng và nhiệt độ trung bình hàng năm là các dữ liệu thường được quan tâm nhiều nhất. Để lưu trữ và khai thác nguồn dữ liệu này, có thể tạo cơ sở dữ liệu với các bảng sau: s TRAM (maTram, tenTram): lưu thông tin mã trạm quan trắc và tên trạm quan trắc; mỗi trạm có một mã duy nhất. s MUA (maTram, nam, thang, luongAu D) Để đưa ra được thông tin gồm tên trạm quan trắc, năm và nhiệt độ trung bình của năm 2020, cần thực hiện câu truy vấn với các thành phần sau: o Các bảng và trường được chọn: TRAM./enTram, NHIETDO.nam, NHIETDO.n/;ietDoTB. o Các bảng được liên kết qua khóa: TRAM liên kết MUA qua khóa zaTram. o Điều kiện kết xuất dữ liệu: NHIETDO.nar = 2020. B. Phần riêng Thí sinh chỉ được phép chọn một trong hai phan Khoa học máy tÍnh (",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "S"
+      }
+    ],
+    "true_false_special": [
+      {
+        "number": "1",
+        "content": "Một quỹ đầu tư (sau đây gọi tắt là Quỹ) muốn xây dựng mô hình học máy để tự động hóa việc ra quyet định mua hoặc bán cổ phleu Quỹ tiến hành mng hợp các tin tức trên báo chí và bài đăng trên mạng xã hội liên quan đến các cong ty có niêm yết cổ phiều. Sau đó, môi mâu dữ liệu (tin tức, bài đăng) sẽ được gán nhãn là \" \"tích cực \" hoặc \"tiêu cực \". Dữ liệu sau gán nhãn được tổng hợp để huấn luyện mô hình. Cuối cùng, kết quả dự đoán của mô hình sẽ được sử dụng để hỗ trợ Quỹ nhanh chóng ra quyết định mua hoặc bán cổ phiếu. Sau khi tìm hiểu về mô hình trên, một số nhân sự của Quỹ đưa ra các nhận định sau: A) Mô hình học máy trong tình huống này thể hiện khả năng hiểu ngôn ngữ của Trí tuệ nhân tạo.",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "2",
+        "content": "Một quỹ đầu tư (sau đây gọi tắt là Quỹ) muốn xây dựng mô hình học máy để tự động hóa việc ra quyet định mua hoặc bán cổ phleu Quỹ tiến hành mng hợp các tin tức trên báo chí và bài đăng trên mạng xã hội liên quan đến các cong ty có niêm yết cổ phiều. Sau đó, môi mâu dữ liệu (tin tức, bài đăng) sẽ được gán nhãn là \" \"tích cực \" hoặc \"tiêu cực \". Dữ liệu sau gán nhãn được tổng hợp để huấn luyện mô hình. Cuối cùng, kết quả dự đoán của mô hình sẽ được sử dụng để hỗ trợ Quỹ nhanh chóng ra quyết định mua hoặc bán cổ phiếu. Sau khi tìm hiểu về mô hình trên, một số nhân sự của Quỹ đưa ra các nhận định sau: B) Phải sử dụng phương pháp Học không giám sát để huấn luyện mô hình học máy nói trên.",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "S"
+      },
+      {
+        "number": "3",
+        "content": "Một quỹ đầu tư (sau đây gọi tắt là Quỹ) muốn xây dựng mô hình học máy để tự động hóa việc ra quyet định mua hoặc bán cổ phleu Quỹ tiến hành mng hợp các tin tức trên báo chí và bài đăng trên mạng xã hội liên quan đến các cong ty có niêm yết cổ phiều. Sau đó, môi mâu dữ liệu (tin tức, bài đăng) sẽ được gán nhãn là \" \"tích cực \" hoặc \"tiêu cực \". Dữ liệu sau gán nhãn được tổng hợp để huấn luyện mô hình. Cuối cùng, kết quả dự đoán của mô hình sẽ được sử dụng để hỗ trợ Quỹ nhanh chóng ra quyết định mua hoặc bán cổ phiếu. Sau khi tìm hiểu về mô hình trên, một số nhân sự của Quỹ đưa ra các nhận định sau: C) Cần phải sử dụng toàn bộ các tin tức và bài đăng đã thu thập để làm tập dữ liệu huấn luyện cho mô hình.",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "S"
+      },
+      {
+        "number": "4",
+        "content": "Một quỹ đầu tư (sau đây gọi tắt là Quỹ) muốn xây dựng mô hình học máy để tự động hóa việc ra quyet định mua hoặc bán cổ phleu Quỹ tiến hành mng hợp các tin tức trên báo chí và bài đăng trên mạng xã hội liên quan đến các cong ty có niêm yết cổ phiều. Sau đó, môi mâu dữ liệu (tin tức, bài đăng) sẽ được gán nhãn là \" \"tích cực \" hoặc \"tiêu cực \". Dữ liệu sau gán nhãn được tổng hợp để huấn luyện mô hình. Cuối cùng, kết quả dự đoán của mô hình sẽ được sử dụng để hỗ trợ Quỹ nhanh chóng ra quyết định mua hoặc bán cổ phiếu. Sau khi tìm hiểu về mô hình trên, một số nhân sự của Quỹ đưa ra các nhận định sau: D) Sau khi triển khai, mô hình có thể được đánh giá chất lượng bằng lợi nhuận giao dịch thực tế của Quỹ.",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "5",
+        "content": "Cho hàm sau đây được viết bằng ngôn ngữ lập trình Python và C++: Dòng Hàm viết bằng ngôn ngữ Python Hàm viết bằng ngôn ngũữ C++ 1 def F(A, n): float F(int A[], int n) ({ 2 for i in range(1, n): for (int i = 1; i < n; i+r+) { 3 x = AIli] int x= A[i]; 4 jrzi-1l int 3 = i - 1; 5 while j >= 0 and A[j] > x: while (j >= 0 && A[j] > x) ({ 6 AIj + 1] = AIj] AIj + 1] = AIj]; 7 3=3-=1 353 .- 17 8 A[j + 1] = x } 9 return (A[0] + A[n // 21) / 2 A[Ij +1] = x; 10 } 11 return (A[0] + A[n / 2]1) / 2.0; 12 } Sau khi chọn một trong hai ngôn ngữ Python hoặc C++ đề tìm hiểu hàm trên, một số bạn học sinh đã nêu các ý kiến sau: A) Mảng A biểu diễn cầu trúc dữ liệu hàng đợi (Queue).",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "S"
+      },
+      {
+        "number": "6",
+        "content": "Cho hàm sau đây được viết bằng ngôn ngữ lập trình Python và C++: Dòng Hàm viết bằng ngôn ngữ Python Hàm viết bằng ngôn ngũữ C++ 1 def F(A, n): float F(int A[], int n) ({ 2 for i in range(1, n): for (int i = 1; i < n; i+r+) { 3 x = AIli] int x= A[i]; 4 jrzi-1l int 3 = i - 1; 5 while j >= 0 and A[j] > x: while (j >= 0 && A[j] > x) ({ 6 AIj + 1] = AIj] AIj + 1] = AIj]; 7 3=3-=1 353 .- 17 8 A[j + 1] = x } 9 return (A[0] + A[n // 21) / 2 A[Ij +1] = x; 10 } 11 return (A[0] + A[n / 2]1) / 2.0; 12 } Sau khi chọn một trong hai ngôn ngữ Python hoặc C++ đề tìm hiểu hàm trên, một số bạn học sinh đã nêu các ý kiến sau: B) Nếu dữ liệu đầu vào là mảng A gồm n phần tử đã được sắp xếp theo chiều không giảm thì các câu lệnh tại Dòng 6 và Dòng 7 không được thực hiện lần nào. ",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "7",
+        "content": "Cho hàm sau đây được viết bằng ngôn ngữ lập trình Python và C++: Dòng Hàm viết bằng ngôn ngữ Python Hàm viết bằng ngôn ngũữ C++ 1 def F(A, n): float F(int A[], int n) ({ 2 for i in range(1, n): for (int i = 1; i < n; i+r+) { 3 x = AIli] int x= A[i]; 4 jrzi-1l int 3 = i - 1; 5 while j >= 0 and A[j] > x: while (j >= 0 && A[j] > x) ({ 6 AIj + 1] = AIj] AIj + 1] = AIj]; 7 3=3-=1 353 .- 17 8 A[j + 1] = x } 9 return (A[0] + A[n // 21) / 2 A[Ij +1] = x; 10 } 11 return (A[0] + A[n / 2]1) / 2.0; 12 } Sau khi chọn một trong hai ngôn ngữ Python hoặc C++ đề tìm hiểu hàm trên, một số bạn học sinh đã nêu các ý kiến sau:  MNếu dữ liệu đầu vào là n= 6 và mảng A là (9, 7, 5, 2, 4, 6) thì sau khi câu lệnh for tại Dòng 2 thực hiện lằn lặp thứ 2, giá trị của mảng A là (2, 5, 7, 9,4, 6).",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "S"
+      },
+      {
+        "number": "8",
+        "content": "Cho hàm sau đây được viết bằng ngôn ngữ lập trình Python và C++: Dòng Hàm viết bằng ngôn ngữ Python Hàm viết bằng ngôn ngũữ C++ 1 def F(A, n): float F(int A[], int n) ({ 2 for i in range(1, n): for (int i = 1; i < n; i+r+) { 3 x = AIli] int x= A[i]; 4 jrzi-1l int 3 = i - 1; 5 while j >= 0 and A[j] > x: while (j >= 0 && A[j] > x) ({ 6 AIj + 1] = AIj] AIj + 1] = AIj]; 7 3=3-=1 353 .- 17 8 A[j + 1] = x } 9 return (A[0] + A[n // 21) / 2 A[Ij +1] = x; 10 } 11 return (A[0] + A[n / 2]1) / 2.0; 12 } Sau khi chọn một trong hai ngôn ngữ Python hoặc C++ đề tìm hiểu hàm trên, một số bạn học sinh đã nêu các ý kiến sau: D) Nếu dữ liệu đầu vào là n = 7 và mảng A là (8, 6, 4, 2, 3, 5, 7) thì hàm trả về giá trị 3.5. B2. Tin học ứng dụng",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "9",
+        "content": "Câu lạc bộ (CLB) Tin học của một trường học cần tạo một trang web đề quảng bá CLB trên Internet với các thông tin về lịch sinh hoạt, hình ảnh, video hoạt động của CLB và các nội dung khác. Trang web cần có biểu mẫu đề học sinh đăng ký tham gia CLB. Ngoài ra, giao diện và bố cục của trang web phải được hiển thị một cách hợp lý trên máy tính và điện thoại thông minh. Khi tìm hiều một số phần mềm tạo trang web, một số bạn học sinh đưa ra các ý kiến sau: A) Phần mềm tạo trang web không hỗ trợ chức năng chèn biểu mẫu đăng ký tham gia CLB vào trang web.",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "S"
+      },
+      {
+        "number": "10",
+        "content": "Câu lạc bộ (CLB) Tin học của một trường học cần tạo một trang web đề quảng bá CLB trên Internet với các thông tin về lịch sinh hoạt, hình ảnh, video hoạt động của CLB và các nội dung khác. Trang web cần có biểu mẫu đề học sinh đăng ký tham gia CLB. Ngoài ra, giao diện và bố cục của trang web phải được hiển thị một cách hợp lý trên máy tính và điện thoại thông minh. Khi tìm hiều một số phần mềm tạo trang web, một số bạn học sinh đưa ra các ý kiến sau: B) Nếu muốn chèn ảnh banner của CLB vào trang web bằng phần mềm tạo trang web thì tệp ảnh đó phải có định dạng PNG.",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "S"
+      },
+      {
+        "number": "11",
+        "content": "Câu lạc bộ (CLB) Tin học của một trường học cần tạo một trang web đề quảng bá CLB trên Internet với các thông tin về lịch sinh hoạt, hình ảnh, video hoạt động của CLB và các nội dung khác. Trang web cần có biểu mẫu đề học sinh đăng ký tham gia CLB. Ngoài ra, giao diện và bố cục của trang web phải được hiển thị một cách hợp lý trên máy tính và điện thoại thông minh. Khi tìm hiều một số phần mềm tạo trang web, một số bạn học sinh đưa ra các ý kiến sau: C) ĐỀ đạt được yêu cầu đặt ra, nên chọn phz`ẵ.n mềm tạo trang web có tính năng tùy biến giao diện và bố cục của trang web một cách hợp lý trên các máy tính và điện thoại thông minh.",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "12",
+        "content": "Câu lạc bộ (CLB) Tin học của một trường học cần tạo một trang web đề quảng bá CLB trên Internet với các thông tin về lịch sinh hoạt, hình ảnh, video hoạt động của CLB và các nội dung khác. Trang web cần có biểu mẫu đề học sinh đăng ký tham gia CLB. Ngoài ra, giao diện và bố cục của trang web phải được hiển thị một cách hợp lý trên máy tính và điện thoại thông minh. Khi tìm hiều một số phần mềm tạo trang web, một số bạn học sinh đưa ra các ý kiến sau: D) Để hiển thị video trên trang web, có thể thực hiện theo hai bước sau: (1) Tải video lên YouTube, (2) Sao chép và nhúng đường liên kết đến wdeo đã tải vào trang web.",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "13",
+        "content": "Trong niên giám số liệu thống kê của Tong cục thong kê có dữ liệu từ năm 2019 đến năm 2023 về tổng số lao động của các doanh nghiệp đang hoạt động (có kết quả sản xuất kinh doanh tại thời fflem 31/12 hàng năm). Dữ liệu này được phân loại theo loại hình doanh nghiệp. Đề lưu trữ và khai thác nguồn dữ liệu này, cần tạo một cơ sở dữ liệu với các bảng sau đây: s NHOM (maNhom, tenNhom): lưu thông tin mã nhóm và tên nhóm doanh nghiệp; mỗi nhóm có một mã nhóm duy nhất. s LOẠAI (maLoai, tenLoai, maNhom): lưu thông tin mã loại hình, tên loại hình và mã nhóm doanh nghiệp; mỗi loại hình thuộc về một nhóm và mỗi nhóm có thể có nhiều loại hình. s LAODONG (7aLoai, nam, SoLaoDong): lưu thông tin mã loại hình, năm, số lượng lao động của loại hình doanh nghiệp trong năm. Sau khi tìm hiểu các phần mềm để quản trị cơ sở dữ liệu trên, một số bạn học sinh đưa ra các ý kiến sau: A) Phần mềm bảng tính có thể lưu trữ cơ sở dữ liệu đã nêu trong một trang tính duy nhất gồm các cột: zzVhom, tenNhom, maLoai, tenLoai, nam, SoLaoDong.",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "14",
+        "content": "Trong niên giám số liệu thống kê của Tong cục thong kê có dữ liệu từ năm 2019 đến năm 2023 về tổng số lao động của các doanh nghiệp đang hoạt động (có kết quả sản xuất kinh doanh tại thời fflem 31/12 hàng năm). Dữ liệu này được phân loại theo loại hình doanh nghiệp. Đề lưu trữ và khai thác nguồn dữ liệu này, cần tạo một cơ sở dữ liệu với các bảng sau đây: s NHOM (maNhom, tenNhom): lưu thông tin mã nhóm và tên nhóm doanh nghiệp; mỗi nhóm có một mã nhóm duy nhất. s LOẠAI (maLoai, tenLoai, maNhom): lưu thông tin mã loại hình, tên loại hình và mã nhóm doanh nghiệp; mỗi loại hình thuộc về một nhóm và mỗi nhóm có thể có nhiều loại hình. s LAODONG (7aLoai, nam, SoLaoDong): lưu thông tin mã loại hình, năm, số lượng lao động của loại hình doanh nghiệp trong năm. Sau khi tìm hiểu các phần mềm để quản trị cơ sở dữ liệu trên, một số bạn học sinh đưa ra các ý kiến sau: B) Khi tạo bảng LAODONG trong phần mềm quản trị cơ sở dữ liệu, chọn z:aLoai và nam rồi thiết lập hai trường này làm khóa chính của bảng. ",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "15",
+        "content": "Trong niên giám số liệu thống kê của Tong cục thong kê có dữ liệu từ năm 2019 đến năm 2023 về tổng số lao động của các doanh nghiệp đang hoạt động (có kết quả sản xuất kinh doanh tại thời fflem 31/12 hàng năm). Dữ liệu này được phân loại theo loại hình doanh nghiệp. Đề lưu trữ và khai thác nguồn dữ liệu này, cần tạo một cơ sở dữ liệu với các bảng sau đây: s NHOM (maNhom, tenNhom): lưu thông tin mã nhóm và tên nhóm doanh nghiệp; mỗi nhóm có một mã nhóm duy nhất. s LOẠAI (maLoai, tenLoai, maNhom): lưu thông tin mã loại hình, tên loại hình và mã nhóm doanh nghiệp; mỗi loại hình thuộc về một nhóm và mỗi nhóm có thể có nhiều loại hình. s LAODONG (7aLoai, nam, SoLaoDong): lưu thông tin mã loại hình, năm, số lượng lao động của loại hình doanh nghiệp trong năm. Sau khi tìm hiểu các phần mềm để quản trị cơ sở dữ liệu trên, một số bạn học sinh đưa ra các ý kiến sau:  Trong phần mềm quản trị cơ sở dữ liệu, mối quan hệ của 3 bảng đã cho được thiết lập dựa trên việc liên kết từ bảng NHOM đến bảng LOẠI và liên kết từ bảng NHOM đến bảng LAODONG.",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "S"
+      },
+      {
+        "number": "16",
+        "content": "Trong niên giám số liệu thống kê của Tong cục thong kê có dữ liệu từ năm 2019 đến năm 2023 về tổng số lao động của các doanh nghiệp đang hoạt động (có kết quả sản xuất kinh doanh tại thời fflem 31/12 hàng năm). Dữ liệu này được phân loại theo loại hình doanh nghiệp. Đề lưu trữ và khai thác nguồn dữ liệu này, cần tạo một cơ sở dữ liệu với các bảng sau đây: s NHOM (maNhom, tenNhom): lưu thông tin mã nhóm và tên nhóm doanh nghiệp; mỗi nhóm có một mã nhóm duy nhất. s LOẠAI (maLoai, tenLoai, maNhom): lưu thông tin mã loại hình, tên loại hình và mã nhóm doanh nghiệp; mỗi loại hình thuộc về một nhóm và mỗi nhóm có thể có nhiều loại hình. s LAODONG (7aLoai, nam, SoLaoDong): lưu thông tin mã loại hình, năm, số lượng lao động của loại hình doanh nghiệp trong năm. Sau khi tìm hiểu các phần mềm để quản trị cơ sở dữ liệu trên, một số bạn học sinh đưa ra các ý kiến sau: D) Để đưa ra thông tin gồm tên nhóm doanh nghiệp, tên loại hình doanh nghiệp, năm và số lượng lao động của loại hình doanh nghiệp năm 2022, thực hiện truy vấn sau: SELECT NHOM.tenNhom, LOAI.tenLoai, LAODONG.nam, LAODONG.soLaoDong FROM NHOM INNER JOIN LOAI ON NHOM.maNhom = LOAI.maNhom WHERE LAODONG.nam = 2022",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "S"
+      }
+    ]
+  },
+  "0537": {
+    "multiple_choice": [
+      {
+        "number": "1",
+        "content": "Người quản trị mạng thực hiện công việc chính nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Xây ffl,rng các ứng dụng trên mạng."
+          },
+          {
+            "label": "B",
+            "content": "Nghiên cứu và phát triển các phần mềm."
+          },
+          {
+            "label": "C",
+            "content": "Tư vấn nâng mp các thiết bị phan cứng."
+          },
+          {
+            "label": "D",
+            "content": "Thiết lập và cấu hình hệ thống mạng."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "2",
+        "content": "Trong bộ giao thức TCP/IP, giao thức IP đảm nhận vai trò nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Cấp phát địa chỉ JP cho các thiết bị trong mạng."
+          },
+          {
+            "label": "B",
+            "content": "Thiết lập bộ quy tắc gửi và nhận thư điện tử qua mạng."
+          },
+          {
+            "label": "C",
+            "content": "Định tuyến các gói dữ liệu đến đúng địa chỉ mạng."
+          },
+          {
+            "label": "D",
+            "content": "huyền tải an toàn dữ liệu giữa các thiết bị."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "C"
+      },
+      {
+        "number": "3",
+        "content": "Hành vi nào sau đây không phù hợp với đạo đức trong môi trường số?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Trao đổi ý kiến thẳng thắn ủưng mang tmh xây dựng."
+          },
+          {
+            "label": "B",
+            "content": "Phát tán tin đồn chưa được kiểm chứng về người khác."
+          },
+          {
+            "label": "C",
+            "content": "Cổ vũ cho những việc làm tốt để lan tỏa đến mọi người."
+          },
+          {
+            "label": "D",
+            "content": "Chia sẻ kiến thức có ích kèm theo nguồn trích dẫn."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "B"
+      },
+      {
+        "number": "4",
+        "content": "Đoạn mã HTML nào sau đây định dạng dòng chữ \"\"TN THPT 2025\" thành in đậm, riêng số 2025 còn được in nghiêng?",
+        "options": [
+          {
+            "label": "A",
+            "content": "<p><em> TN THPT </em><strong>2025</strong></p>"
+          },
+          {
+            "label": "B",
+            "content": "<p><em><strong>TN THPT 2025</strong></em></p>"
+          },
+          {
+            "label": "C",
+            "content": "<p><strong>TN THPT <em>2025</em></strong></p>"
+          },
+          {
+            "label": "D",
+            "content": "<p><em>TN THPT <strong>2025</strong></em></p>"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "C"
+      },
+      {
+        "number": "5",
+        "content": "Đoạn mã CSS nào sau đây thiết lập đường viền có độ dày 3 pixel, kiểu nét đứt bao quanh các đối tượng nội dung khi hiển thị trên trình duyệt?",
+        "options": [
+          {
+            "label": "A",
+            "content": "p {(border-width: 3px; border-style: double;}"
+          },
+          {
+            "label": "B",
+            "content": "p.border {(border-width: 3px; border-style: groove;]}"
+          },
+          {
+            "label": "C",
+            "content": "p.border {border-width: 3px; border-style: double;}"
+          },
+          {
+            "label": "D",
+            "content": "p (border-width: 3px; border-style: dashed;}"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "6",
+        "content": "Một công ty có hai chỉ nhánh ở cách nhau khoảng 10 km. Các máy tính ở mỗi chỉ nhánh đã được kết nối thành một mạng LAN riêng. Thiết bị nào sau đây là phù hợp nhất để kết nối hai mạng riêng này thành một mạng chung?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Switch."
+          },
+          {
+            "label": "B",
+            "content": "Router."
+          },
+          {
+            "label": "C",
+            "content": "Access Point."
+          },
+          {
+            "label": "D",
+            "content": "Modem."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "B"
+      },
+      {
+        "number": "7",
+        "content": "Tiêu đề của trang web được khai báo trong phần tử HTML nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "html"
+          },
+          {
+            "label": "B",
+            "content": "p"
+          },
+          {
+            "label": "C",
+            "content": "body"
+          },
+          {
+            "label": "D",
+            "content": "title"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "8",
+        "content": "Khả năng hiểu ngôn ngữ của Trí tuệ nhân tạo không thể hiện trong hệ thống nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Trợ lý ảo trên xe ô tô."
+          },
+          {
+            "label": "B",
+            "content": "Nhận diện khuôn mặt."
+          },
+          {
+            "label": "C",
+            "content": "Trợ giúp soạn thảo văn bản."
+          },
+          {
+            "label": "D",
+            "content": "Tổng đài tự động hỏi đáp."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "B"
+      },
+      {
+        "number": "9",
+        "content": "Thiết bị nào sau đây có chức năng chính là thiết lập kênh kết nối giữa các thiết bị trong mạng LAN (có dây) để truyền dữ liệu?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Access Point."
+          },
+          {
+            "label": "B",
+            "content": "Switch."
+          },
+          {
+            "label": "C",
+            "content": "Modem."
+          },
+          {
+            "label": "D",
+            "content": "Router."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "B"
+      },
+      {
+        "number": "10",
+        "content": "Người làm nghề sửa chữa và bảo trì máy tính phải có kiến thức về lĩnh vực nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Phần cứng máy tính."
+          },
+          {
+            "label": "B",
+            "content": "An toàn thông tin."
+          },
+          {
+            "label": "C",
+            "content": "Cơ sở dữ liệu."
+          },
+          {
+            "label": "D",
+            "content": "Lập trình nhúng."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "11",
+        "content": "Khi đọc được thông tin về một khu vực vừa bị thiên tai trên một trang báo điện tử uy tín, hành động nào sau đây không thể hiện tính nhân văn trên không gian mạng?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Đăng tải lại hình ảnh thiên tai trên trang cá nhân đề tăng lượt tương tác."
+          },
+          {
+            "label": "B",
+            "content": "Gửi lời chia buồn và động viên những người bị ảnh hướng từ thiên tai."
+          },
+          {
+            "label": "C",
+            "content": "Tham gia các nhóm từ thiện trực tuyến để tìm hiểu và hỗ trợ thiết thực."
+          },
+          {
+            "label": "D",
+            "content": "Kêu gọi giúp đỡ từ cộng đồng nếu xác minh được thông tin là chính xác."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "12",
+        "content": "Router có chức năng chính nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Phát tín hiệu đến tất cả các cồng kết nối trong mạng LAN."
+          },
+          {
+            "label": "B",
+            "content": "Kết nối các thiết bị bằng sóng vô tuyến trong mạng cục bộ."
+          },
+          {
+            "label": "C",
+            "content": "Tìm fflxơng đi tối ưu để truyền các gói dữ liệu gưa các mạng."
+          },
+          {
+            "label": "D",
+            "content": "Chuyển đối giữa tín hiệu tương tự và tín hiệu số qua mạng."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "C"
+      },
+      {
+        "number": "13",
+        "content": "Cho đoạn mã HTML sau: <table border=\"1\" width=\"50$\" height=\"10%\"> <tr> <th> </th> <th> </th> <th> </th> </tr> <tr> <td> </td> <td> </td> <td> </td> </tr> </table> Phương án nào sau đây nêu đúng số lượng hàng và cột của bảng được tạo bởi đoạn mã trên?",
+        "options": [
+          {
+            "label": "A",
+            "content": "3 hàng, 2 cột."
+          },
+          {
+            "label": "B",
+            "content": "2hàng, 3 cột."
+          },
+          {
+            "label": "C",
+            "content": "2 hàng, 2 cột."
+          },
+          {
+            "label": "D",
+            "content": "3hàng, 3 cột."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "B"
+      },
+      {
+        "number": "14",
+        "content": "Cách ứng xử nào sau đây phù hợp đối với kết quả được tạo ra bởi Trí tuệ nhân tạo?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Giữ nguyên để làm sản phẩm học tập và nghiên cứu."
+          },
+          {
+            "label": "B",
+            "content": "Chia sẻ ra cộng đồng mà không cần kiểm chứng."
+          },
+          {
+            "label": "C",
+            "content": "Tin tưởng hoàn toàn vào tính chính xác và khách quan"
+          },
+          {
+            "label": "D",
+            "content": "Xem xét một cách thận trọng và có trách nhiệm."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "15",
+        "content": "Phương án nào sau đây chỉ ra lý do chủ yếu dẫn tới nhu cầu gia tăng về số lượng chuyên gia bảo mật hệ thống thông tin?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Tính phức tạp ngày càng tăng của các cuộc tấn công mạng."
+          },
+          {
+            "label": "B",
+            "content": "Tốc độ xử lý của CPU ngày càng tăng nhanh."
+          },
+          {
+            "label": "C",
+            "content": "Dung lượng của các thiết bị lưu trữ ngày càng tăng nhanh."
+          },
+          {
+            "label": "D",
+            "content": "Sự phố biến của các ứng dụng soạn thảo văn bản."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "16",
+        "content": "Khi thực hiện đoạn mã HTML sau, dòng chữ \"Chúc các em thi tốt!\" sẽ được hiển thị trên trình duyệt theo định dạng nào dưới đây? <html><head><style> .mau{color: green; font-weight: bold;]} #mau{color: yellow; font-style: italic;} </style></head><body><p id=\"mau\">Chúc các em thi tốt!</p></body></html>",
+        "options": [
+          {
+            "label": "A",
+            "content": "Màu vàng, in đậm."
+          },
+          {
+            "label": "B",
+            "content": "Màu xanh lá cây, in nghiêng."
+          },
+          {
+            "label": "C",
+            "content": "Màu vàng, in nghiêng."
+          },
+          {
+            "label": "D",
+            "content": "Màu xanh lá cây, in đậm."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "C"
+      },
+      {
+        "number": "17",
+        "content": "Lựa chọn ngôn ngữ Python hoặc C++ đề tìm hiểu đoạn chương trình sau:",
+        "options": [
+          {
+            "label": "A",
+            "content": "U"
+          },
+          {
+            "label": "B",
+            "content": "R"
+          },
+          {
+            "label": "C",
+            "content": ""
+          },
+          {
+            "label": "D",
+            "content": "T"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "C"
+      },
+      {
+        "number": "18",
+        "content": "Đoạn mã CSS nào sau đây thiết lập hình ảnh và văn bản được hiển thị theo khối?",
+        "options": [
+          {
+            "label": "A",
+            "content": "img, p {display:"
+          },
+          {
+            "label": "B",
+            "content": "ing, p (display: none;)"
+          },
+          {
+            "label": "C",
+            "content": "img, p (display: flex;]}"
+          },
+          {
+            "label": "D",
+            "content": "img, p {display: block;}"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "19",
+        "content": "Thẻ HTML nào sau đây được dùng để tạo danh sách có thứ tự?",
+        "options": [
+          {
+            "label": "A",
+            "content": "<ol>"
+          },
+          {
+            "label": "B",
+            "content": "<lii>"
+          },
+          {
+            "label": "C",
+            "content": "<table>"
+          },
+          {
+            "label": "D",
+            "content": "<u1l>"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "20",
+        "content": "Lĩnh vực tin học nào sau đây tập trung vào việc nghiên cứu và phát triển các phần mềm làm cho máy tính ngày càng thông minh như con người?",
+        "options": [
+          {
+            "label": "A",
+            "content": "An toàn thông tin."
+          },
+          {
+            "label": "B",
+            "content": "Mạng máy tính."
+          },
+          {
+            "label": "C",
+            "content": "Internet vạn vật."
+          },
+          {
+            "label": "D",
+            "content": "Trí tuệ nhân tạo."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "21",
+        "content": "Lựa chọn ngôn ngữ Python hoặc C++ đề tìm hiểu đoạn chương trình sau: Dòng Đoạn chương trình viết bằng Python 1 n,i,S=9,5,0 while i < n: S = i = print(S) } cout << S; Phương án nào sau đây chỉ ra đúng số lần lặp của câu lệnh whi 1e ở Dòng 2?",
+        "options": [
+          {
+            "label": "A",
+            "content": "0."
+          },
+          {
+            "label": "B",
+            "content": "3"
+          },
+          {
+            "label": "C",
+            "content": "1"
+          },
+          {
+            "label": "D",
+            "content": "2."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "22",
+        "content": "Một gươl lạ bắt chuyện qua mạng; xã hội và giới thiệu cơ hội \"việc nhẹ lương cao\" ° cho một học sinh. Tuy nhiên, để nhận công việc này phải nộp trước một số tiền đặt cọc giữ chỗ. Trong tình huống này, ứng xử nào sau đây của bạn học sinh không ạn toàn trên không gian mạng\"",
+        "options": [
+          {
+            "label": "A",
+            "content": "Nộp tiền đặt cọc ngay theo yêu cầu."
+          },
+          {
+            "label": "C",
+            "content": "Trình báo cho công an về dấu hiệu lừa đảo. inline;} Đoạn chương trình viết bằng C++ intn= 9 i = 5, S = . 0; while (i <n) { S=S+1+i; izi+2; E m + + Nộ. ƠØ Ơ w O 9"
+          },
+          {
+            "label": "B",
+            "content": "Xác minh thông tin một cách cấn trọng."
+          },
+          {
+            "label": "D",
+            "content": "Bỏ qua tin nhắn và cảnh báo cho bạn bè."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "23",
+        "content": "Trong lĩnh vực y tế, Trí tuệ nhân tạo được ứng dụng phổ biến trong hệ thống nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Tự động hóa hoàn toàn việc thẩm định các loại thuốc mới."
+          },
+          {
+            "label": "B",
+            "content": "Tự Cỉọng hóa hoàn toàn việc kê đơn thuốc cho bệnh nhân."
+          },
+          {
+            "label": "C",
+            "content": "m ph1eu thứ tự khám bệnh cho bệnh nhân tại các phòng khám."
+          },
+          {
+            "label": "D",
+            "content": "Hỗ trợ bác sĩ chẳn đoán bệnh dựa trên hình ảnh X-quang."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "24",
+        "content": "Thuộc tính CSS nào sau đây thiết lập cỡ chữ cho văn bản?",
+        "options": [
+          {
+            "label": "A",
+            "content": "text-align"
+          },
+          {
+            "label": "B",
+            "content": "font-family"
+          },
+          {
+            "label": "C",
+            "content": "text-indent"
+          },
+          {
+            "label": "D",
+            "content": "font-size"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      }
+    ],
+    "true_false_common": [
+      {
+        "number": "1",
+        "content": "Một gia đình chuyển đến căn nhà mới có bốn tang Họ được nhà cung cấp dịch vụ viễn thông ủp đặt một Modem để sử dụng Internet trong nhà. Các thành viên. t1~ong gia đình thường sử dụng điện thoại thông minh để truy cập Internet, tuy nhiên, tín hiệu Internet không ổn định ml một số phòng. Hơn nữa, gia đình còn có nhu cầu sử dụng Internet trên các máy tính để bàn không có chức năng kết nối mạng không dây. Các thành viên trong gia đình đã đưa ra các ý kiến sau: A) Việc truy cập Internet bằng điện thoại thông minh mà không dùng dữ liệu mạng di động chứng tỏ Modem của gia đình đã được tích hợp chức năng phát Wi-Ei.",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "2",
+        "content": "Một gia đình chuyển đến căn nhà mới có bốn tang Họ được nhà cung cấp dịch vụ viễn thông ủp đặt một Modem để sử dụng Internet trong nhà. Các thành viên. t1~ong gia đình thường sử dụng điện thoại thông minh để truy cập Internet, tuy nhiên, tín hiệu Internet không ổn định ml một số phòng. Hơn nữa, gia đình còn có nhu cầu sử dụng Internet trên các máy tính để bàn không có chức năng kết nối mạng không dây. Các thành viên trong gia đình đã đưa ra các ý kiến sau: B) Đề tránh tình trạng tín hiệu Internet không ô ổn định trong một số phòng, có thể dùng thêm Access Point để kết nối với Modem và đặt Acc:ess Point này ở vị trí gân các phòng đó.",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "3",
+        "content": "Một gia đình chuyển đến căn nhà mới có bốn tang Họ được nhà cung cấp dịch vụ viễn thông ủp đặt một Modem để sử dụng Internet trong nhà. Các thành viên. t1~ong gia đình thường sử dụng điện thoại thông minh để truy cập Internet, tuy nhiên, tín hiệu Internet không ổn định ml một số phòng. Hơn nữa, gia đình còn có nhu cầu sử dụng Internet trên các máy tính để bàn không có chức năng kết nối mạng không dây. Các thành viên trong gia đình đã đưa ra các ý kiến sau: C) Nếu gia đình muốn sử dụng Internet bằng máy tính đễ bàn thì cách đơn giản nhất là dùng cáp mạng để kết nối giữa máy tính đó với Modem.",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "4",
+        "content": "Một gia đình chuyển đến căn nhà mới có bốn tang Họ được nhà cung cấp dịch vụ viễn thông ủp đặt một Modem để sử dụng Internet trong nhà. Các thành viên. t1~ong gia đình thường sử dụng điện thoại thông minh để truy cập Internet, tuy nhiên, tín hiệu Internet không ổn định ml một số phòng. Hơn nữa, gia đình còn có nhu cầu sử dụng Internet trên các máy tính để bàn không có chức năng kết nối mạng không dây. Các thành viên trong gia đình đã đưa ra các ý kiến sau: D) Để tất cả các máy tính để bàn truy cập được Internet, gia đình cần kết nối các máy tính đó với nhau thông qua một Switch nhưng không kết n01 Switch với Modem.",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "S"
+      },
+      {
+        "number": "5",
+        "content": "Dữ liệu về thời tiết ở nước ta từ năm 2019 đến năm 2023 có ưong niên giám số liệu thống kê của Tổng cục thống kê. Nguồn dữ liệu này được thu thập từ các trạm quan trắc đặt tại nhiều địa điểm khác nhau. Trong đó, lượng mưa  từng tháng và nhiệt độ trung bình hàng năm là các dữ liệu thường được quan tâm nhiều nhất. Để lưu trữ và khai thác nguồn dữ liệu này, có thể tạo cơ sở dữ liệu với các bảng sau:  TRAM (maTram, tenTram): lưu thông tin mã trạm quan trắc và tên trạm quan trắc; mỗi trạm có một mã duy nhất.  MUA (maTram, nam, thang, luongMua) : lưu thông tin mã trạm quan trắc, năm, tháng và lượng mua của tháng trong năm.  NHIETDO (maTram, nam, nhietDoTB): lưu thông tin mã trạm quan trắc, năm và nhiệt độ trung bình của năm. Sau khi tìm hiểu cơ sở dữ liệu trên, một số bạn học sinh đưa ra các nhận xét sau: A) Trường maTram là khóa chính của bảng TRAM.",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "6",
+        "content": "Dữ liệu về thời tiết ở nước ta từ năm 2019 đến năm 2023 có ưong niên giám số liệu thống kê của Tổng cục thống kê. Nguồn dữ liệu này được thu thập từ các trạm quan trắc đặt tại nhiều địa điểm khác nhau. Trong đó, lượng mưa  từng tháng và nhiệt độ trung bình hàng năm là các dữ liệu thường được quan tâm nhiều nhất. Để lưu trữ và khai thác nguồn dữ liệu này, có thể tạo cơ sở dữ liệu với các bảng sau:  TRAM (maTram, tenTram): lưu thông tin mã trạm quan trắc và tên trạm quan trắc; mỗi trạm có một mã duy nhất.  MUA (maTram, nam, thang, luongMua) : lưu thông tin mã trạm quan trắc, năm, tháng và lượng mua của tháng trong năm.  NHIETDO (maTram, nam, nhietDoTB): lưu thông tin mã trạm quan trắc, năm và nhiệt độ trung bình của năm. Sau khi tìm hiểu cơ sở dữ liệu trên, một số bạn học sinh đưa ra các nhận xét sau: B) Nhom hai trường maTram và nam là khóa chính của bảng MUÙA. ",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "S"
+      },
+      {
+        "number": "7",
+        "content": "Dữ liệu về thời tiết ở nước ta từ năm 2019 đến năm 2023 có ưong niên giám số liệu thống kê của Tổng cục thống kê. Nguồn dữ liệu này được thu thập từ các trạm quan trắc đặt tại nhiều địa điểm khác nhau. Trong đó, lượng mưa  từng tháng và nhiệt độ trung bình hàng năm là các dữ liệu thường được quan tâm nhiều nhất. Để lưu trữ và khai thác nguồn dữ liệu này, có thể tạo cơ sở dữ liệu với các bảng sau:  TRAM (maTram, tenTram): lưu thông tin mã trạm quan trắc và tên trạm quan trắc; mỗi trạm có một mã duy nhất.  MUA (maTram, nam, thang, luongMua) : lưu thông tin mã trạm quan trắc, năm, tháng và lượng mua của tháng trong năm.  NHIETDO (maTram, nam, nhietDoTB): lưu thông tin mã trạm quan trắc, năm và nhiệt độ trung bình của năm. Sau khi tìm hiểu cơ sở dữ liệu trên, một số bạn học sinh đưa ra các nhận xét sau: Chỉ cần liên kết hai bảng TRAM và MUA theo khóa maTram là có thể kết xuất được thông tin gồm: tên trạm quan trắc, năm, tháng và lượng mưa cua tháng trong năm.",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "8",
+        "content": "Dữ liệu về thời tiết ở nước ta từ năm 2019 đến năm 2023 có ưong niên giám số liệu thống kê của Tổng cục thống kê. Nguồn dữ liệu này được thu thập từ các trạm quan trắc đặt tại nhiều địa điểm khác nhau. Trong đó, lượng mưa từng tháng và nhiệt độ trung bình hàng năm là các dữ liệu thường được quan tâm nhiều nhất. Để lưu trữ và khai thác nguồn dữ liệu này, có thể tạo cơ sở dữ liệu với các bảng sau:  TRAM (maTram, tenTram): lưu thông tin mã trạm quan trắc và tên trạm quan trắc; mỗi trạm có một mã duy nhất.  MUA (maTram, nam, thang, luonglfu . d Đề đưa ra được thông tin gồm tên trạm quan trắc, năm và nhiệt độ trung bình của năm 2020, cần thực hiện câu truy vấn với các thành phần sau: © Các bảng và trường được chọn: TRAM./tenTram, NHIETDO.nam, NHIETDO.nhietDoTB. o Các bảng được liên kết qua khóa: TRAM liên kết MUA qua khóa zna7ram. o Điều kiện kết xuất dữ liệu: NHIETDO.nam = 2020.",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "S"
+      }
+    ],
+    "true_false_special": [
+      {
+        "number": "1",
+        "content": "Một quỹ đầu tư @au đây g›l tắt là Quỹ) muốn xây dựng mô hình học máy để tự động hóa việc ra quyet định mua hoặc bán cổ phleu Quỹ tiến hành tong hợp các tin tức trên báo chí và bài đăng trên mạng xã hội liên quan đến các cong ty có niêm yết cổ phiếu. Sau đó, môi mâu dữ liệu (tin tức, bài đăng) sẽ được gán nhãn là \"ích cực \" hoặc \"tiêu cực \". Dữ liệu sau gán nhãn được tổng ủrp để huấn luyện mô hmh Cuối cùng, kết quả dự đoán của mô hình sẽ được sử dụng để hỗ trợ Quỹ nhanh ủong ra quyết định mua hoặc bán cổ phiều. Sau khi tìm hiểu về mô hình trên, một số nhân sự của Quỹ đưa ra các nhận định sau: A) Mô hình học máy trong tình huống này thể hiện khả năng hiểu ngôn ngữ của Trí tuệ nhân tạo.",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "2",
+        "content": "Một quỹ đầu tư @au đây g›l tắt là Quỹ) muốn xây dựng mô hình học máy để tự động hóa việc ra quyet định mua hoặc bán cổ phleu Quỹ tiến hành tong hợp các tin tức trên báo chí và bài đăng trên mạng xã hội liên quan đến các cong ty có niêm yết cổ phiếu. Sau đó, môi mâu dữ liệu (tin tức, bài đăng) sẽ được gán nhãn là \"ích cực \" hoặc \"tiêu cực \". Dữ liệu sau gán nhãn được tổng ủrp để huấn luyện mô hmh Cuối cùng, kết quả dự đoán của mô hình sẽ được sử dụng để hỗ trợ Quỹ nhanh ủong ra quyết định mua hoặc bán cổ phiều. Sau khi tìm hiểu về mô hình trên, một số nhân sự của Quỹ đưa ra các nhận định sau: B) Phải sử dụng phương pháp Học không giám sát để huần luyện mô hình học máy nói trên.",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "S"
+      },
+      {
+        "number": "3",
+        "content": "Một quỹ đầu tư @au đây g›l tắt là Quỹ) muốn xây dựng mô hình học máy để tự động hóa việc ra quyet định mua hoặc bán cổ phleu Quỹ tiến hành tong hợp các tin tức trên báo chí và bài đăng trên mạng xã hội liên quan đến các cong ty có niêm yết cổ phiếu. Sau đó, môi mâu dữ liệu (tin tức, bài đăng) sẽ được gán nhãn là \"ích cực \" hoặc \"tiêu cực \". Dữ liệu sau gán nhãn được tổng ủrp để huấn luyện mô hmh Cuối cùng, kết quả dự đoán của mô hình sẽ được sử dụng để hỗ trợ Quỹ nhanh ủong ra quyết định mua hoặc bán cổ phiều. Sau khi tìm hiểu về mô hình trên, một số nhân sự của Quỹ đưa ra các nhận định sau: C) Cần phải sử dụng toàn bộ các tin tức và bài đang đã thu thập để làm tập dữ liệu huấn luyện cho mô hình.",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "S"
+      },
+      {
+        "number": "4",
+        "content": "Một quỹ đầu tư @au đây g›l tắt là Quỹ) muốn xây dựng mô hình học máy để tự động hóa việc ra quyet định mua hoặc bán cổ phleu Quỹ tiến hành tong hợp các tin tức trên báo chí và bài đăng trên mạng xã hội liên quan đến các cong ty có niêm yết cổ phiếu. Sau đó, môi mâu dữ liệu (tin tức, bài đăng) sẽ được gán nhãn là \"ích cực \" hoặc \"tiêu cực \". Dữ liệu sau gán nhãn được tổng ủrp để huấn luyện mô hmh Cuối cùng, kết quả dự đoán của mô hình sẽ được sử dụng để hỗ trợ Quỹ nhanh ủong ra quyết định mua hoặc bán cổ phiều. Sau khi tìm hiểu về mô hình trên, một số nhân sự của Quỹ đưa ra các nhận định sau: D) Sau khi triển khai, mô hình có thể được đánh giá chất lượng bằng lợi nhuận giao dịch thực tế của Quỹ.",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "5",
+        "content": "Cho hàm sau đây được viết bằng ngôn ngữ lập trình Python và C+: Đòng Hàm viết bằng ngôn ngữ Pvthon Hàm viết bằng ngôn ngũữ C++ 1 def F(A, nì: float F(int A[], int n) { 2 for i in range(1, n): for (int i = 1; i <n; i+t+) { 3 x= A[i] int x = A[i]; 4 4Ảz=zi - 1 int j=i- 1; 5 while j >= 0 and A[j] > x: while (j >= 0 && A[j] > x) ({ 6 AI[3 + 1] = AI3] AIj + 1] = AI)]; 7 3=3 - 1 j = j - 1; 8 AI[j +1] =x } 9 return (A[0] + A[n // 21) / 2 A[j + 1] = x; 10 } 11 return (A[0] + A[n / 2]1) / 2.0; 12 } Sau khi chọn một trong hai ngôn ngữ Python hoặc C++ để tìm hiểu hàm trên, một số bạn học sinh đã nêu các ý kiến sau: A) Mảng A biểu diễn cầu trúc dữ hẹu hàng đợl (Queue).",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "S"
+      },
+      {
+        "number": "6",
+        "content": "Cho hàm sau đây được viết bằng ngôn ngữ lập trình Python và C+: Đòng Hàm viết bằng ngôn ngữ Pvthon Hàm viết bằng ngôn ngũữ C++ 1 def F(A, nì: float F(int A[], int n) { 2 for i in range(1, n): for (int i = 1; i <n; i+t+) { 3 x= A[i] int x = A[i]; 4 4Ảz=zi - 1 int j=i- 1; 5 while j >= 0 and A[j] > x: while (j >= 0 && A[j] > x) ({ 6 AI[3 + 1] = AI3] AIj + 1] = AI)]; 7 3=3 - 1 j = j - 1; 8 AI[j +1] =x } 9 return (A[0] + A[n // 21) / 2 A[j + 1] = x; 10 } 11 return (A[0] + A[n / 2]1) / 2.0; 12 } Sau khi chọn một trong hai ngôn ngữ Python hoặc C++ để tìm hiểu hàm trên, một số bạn học sinh đã nêu các ý kiến sau: B) Nếu dữ liệu đầu vào là mảng A gồm n phần tử đã được sắp xếp theo chiều không giảm thì các câu lệnh tại Dòng 6 và Dòng 7 không được thực hiện lần nào.",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "7",
+        "content": "Cho hàm sau đây được viết bằng ngôn ngữ lập trình Python và C+: Đòng Hàm viết bằng ngôn ngữ Pvthon Hàm viết bằng ngôn ngũữ C++ 1 def F(A, nì: float F(int A[], int n) { 2 for i in range(1, n): for (int i = 1; i <n; i+t+) { 3 x= A[i] int x = A[i]; 4 4Ảz=zi - 1 int j=i- 1; 5 while j >= 0 and A[j] > x: while (j >= 0 && A[j] > x) ({ 6 AI[3 + 1] = AI3] AIj + 1] = AI)]; 7 3=3 - 1 j = j - 1; 8 AI[j +1] =x } 9 return (A[0] + A[n // 21) / 2 A[j + 1] = x; 10 } 11 return (A[0] + A[n / 2]1) / 2.0; 12 } Sau khi chọn một trong hai ngôn ngữ Python hoặc C++ để tìm hiểu hàm trên, một số bạn học sinh đã nêu các ý kiến sau: C) Nếu dữ liệu đầu vào là n = 6 và mảng A là (9, 7, 5, 2, 4, 6) thì sau khi câu lệnh £or tại Dòng 2 thực hiện lần lặp thứ 2, giá trị của mảng A là Ø, 5, 7, 9,4, 6).",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "S"
+      },
+      {
+        "number": "8",
+        "content": "Cho hàm sau đây được viết bằng ngôn ngữ lập trình Python và C+: Đòng Hàm viết bằng ngôn ngữ Pvthon Hàm viết bằng ngôn ngũữ C++ 1 def F(A, nì: float F(int A[], int n) { 2 for i in range(1, n): for (int i = 1; i <n; i+t+) { 3 x= A[i] int x = A[i]; 4 4Ảz=zi - 1 int j=i- 1; 5 while j >= 0 and A[j] > x: while (j >= 0 && A[j] > x) ({ 6 AI[3 + 1] = AI3] AIj + 1] = AI)]; 7 3=3 - 1 j = j - 1; 8 AI[j +1] =x } 9 return (A[0] + A[n // 21) / 2 A[j + 1] = x; 10 } 11 return (A[0] + A[n / 2]1) / 2.0; 12 } Sau khi chọn một trong hai ngôn ngữ Python hoặc C++ để tìm hiểu hàm trên, một số bạn học sinh đã nêu các ý kiến sau: D) Nếu dữ liệu đầu vào là n = 7 và mảng A là (8, 6, 4, 2, 3, 5, 7) thì hàm trả về giá trị 3.5. B2. Tin học ứng dụng",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "9",
+        "content": "Câu lạc bộ (CLB) Tin học của một trường học cần tạo một trang web để quảng bá CLB trên Internet với các thông tin về lịch sinh hoạt, hình ảnh, video hoạt động của CLB và các nội dung khác. Trang web cần có biểu mẫu để học sinh đăng ký tham gia CLB. Ngoài ra, giao diện và bố cục của trang web phải được hiển thị một cách hợp lý trên máy tính và điện thoại thông minh. Khi tìm hiểu một số phần mềm tạo trang web, một số bạn học sinh đưa ra các ý kiến sau: A) Phần mềm tạo trang web không hỗ trợ chức năng chèn biểu mẫu đăng ký tham gia CLB vào trang web.",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "S"
+      },
+      {
+        "number": "10",
+        "content": "Câu lạc bộ (CLB) Tin học của một trường học cần tạo một trang web để quảng bá CLB trên Internet với các thông tin về lịch sinh hoạt, hình ảnh, video hoạt động của CLB và các nội dung khác. Trang web cần có biểu mẫu để học sinh đăng ký tham gia CLB. Ngoài ra, giao diện và bố cục của trang web phải được hiển thị một cách hợp lý trên máy tính và điện thoại thông minh. Khi tìm hiểu một số phần mềm tạo trang web, một số bạn học sinh đưa ra các ý kiến sau: B) Nếu muốn chèn ảnh banner của CLB vào trang web bằng phần mềm tạo trang web thì tệp ảnh đó phải có định dạng PNG. ",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "S"
+      },
+      {
+        "number": "11",
+        "content": "Câu lạc bộ (CLB) Tin học của một trường học cần tạo một trang web để quảng bá CLB trên Internet với các thông tin về lịch sinh hoạt, hình ảnh, video hoạt động của CLB và các nội dung khác. Trang web cần có biểu mẫu để học sinh đăng ký tham gia CLB. Ngoài ra, giao diện và bố cục của trang web phải được hiển thị một cách hợp lý trên máy tính và điện thoại thông minh. Khi tìm hiểu một số phần mềm tạo trang web, một số bạn học sinh đưa ra các ý kiến sau:  Để đạt được yêu cầu đặt ra, nên chọn phần mềm tạo trang web có tính năng tùy biến giao diện và bố cục của trang web một cách hợp lý trên các máy tính và điện thoại thông minh.",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "12",
+        "content": "Câu lạc bộ (CLB) Tin học của một trường học cần tạo một trang web để quảng bá CLB trên Internet với các thông tin về lịch sinh hoạt, hình ảnh, video hoạt động của CLB và các nội dung khác. Trang web cần có biểu mẫu để học sinh đăng ký tham gia CLB. Ngoài ra, giao diện và bố cục của trang web phải được hiển thị một cách hợp lý trên máy tính và điện thoại thông minh. Khi tìm hiểu một số phần mềm tạo trang web, một số bạn học sinh đưa ra các ý kiến sau: D) Để hiển thị video trên trang web, có thể thực hiện theo hai bước sau: (1) Tải video lên YouTube, (2) Sao chép và nhúng đường liên kết đến v1deo đã tải vào trang web.",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "13",
+        "content": "Trong niên giám số liệu thống kê của To1'1g cục thong kê có dữ liệu từ năm 2019 đến năm 2023 về tổng số lao động của các doanh nghiệp đang hoạt động (có kết quả sản xuất kinh doanh tại thời điểm 31/12 hàng năm). Dữ liệu này được phân loại theo loại hình doanh nghiệp. Để lưu trữ và khai thác nguồn dữ liệu này, cần tạo một cơ sở dữ liệu với các bảng sau đây: s NHOM (maNhom, tenNhom): lưu thông tìn mã nhóm và tên nhóm doanh nghiệp; mỗi nhóm có một mã nhóm duy nhất.  LOẠI (maLoai, tenLoai, ntaNhom) lưu thông tin mã loại hình, tên loại hình và mã nhóm doanh nghiệp; mỗi loại hình thuộc về một nhóm và mỗi nhóm có thể có nhiều loại hình. s LAODONG (maloai, nam, soLaoDong): lưu thông tin mã loại hình, năm, số lượng lao động của loại hình doanh nghiệp trong năm. Sau khi tìm meu các phần mềm để quản trị cơ sở dữ liệu trên, một số bạn học sinh đưa ra các y hen sau: A) Phần mềm bảng tính có thể lưu trữ cơ sở dữ liệu đã nêu trong một trang tính duy nhất gồm các cột: maNhom, tenNhom, maLoai, tenLoai, nam, soLaoDong",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "14",
+        "content": "Trong niên giám số liệu thống kê của To1'1g cục thong kê có dữ liệu từ năm 2019 đến năm 2023 về tổng số lao động của các doanh nghiệp đang hoạt động (có kết quả sản xuất kinh doanh tại thời điểm 31/12 hàng năm). Dữ liệu này được phân loại theo loại hình doanh nghiệp. Để lưu trữ và khai thác nguồn dữ liệu này, cần tạo một cơ sở dữ liệu với các bảng sau đây: s NHOM (maNhom, tenNhom): lưu thông tìn mã nhóm và tên nhóm doanh nghiệp; mỗi nhóm có một mã nhóm duy nhất.  LOẠI (maLoai, tenLoai, tenNhom) lưu thông tin mã loại hình, tên loại hình và mã nhóm doanh nghiệp; mỗi loại hình thuộc về một nhóm và mỗi nhóm có thể có nhiều loại hình. s LAODONG (maloai, nam, soLaoDong): lưu thông tin mã loại hình, năm, số lượng lao động của loại hình doanh nghiệp trong năm. Sau khi tìm meu các phần mềm để quản trị cơ sở dữ liệu trên, một số bạn học sinh đưa ra các y hen sau: B) Khi tạo bảng LAODONG trong phần mềm quản trị cơ sở dữ liệu, chọn maLoai và nam rồi thiết lập hai trường này làm khóa chính của bang",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "15",
+        "content": "Trong niên giám số liệu thống kê của To1'1g cục thong kê có dữ liệu từ năm 2019 đến năm 2023 về tổng số lao động của các doanh nghiệp đang hoạt động (có kết quả sản xuất kinh doanh tại thời điểm 31/12 hàng năm). Dữ liệu này được phân loại theo loại hình doanh nghiệp. Để lưu trữ và khai thác nguồn dữ liệu này, cần tạo một cơ sở dữ liệu với các bảng sau đây: s NHOM (maNhom, tenNhom): lưu thông tìn mã nhóm và tên nhóm doanh nghiệp; mỗi nhóm có một mã nhóm duy nhất.  LOẠI (maLoai, tenLoai, tenNhom) lưu thông tin mã loại hình, tên loại hình và mã nhóm doanh nghiệp; mỗi loại hình thuộc về một nhóm và mỗi nhóm có thể có nhiều loại hình. s LAODONG (maloai, nam, soLaoDong): lưu thông tin mã loại hình, năm, số lượng lao động của loại hình doanh nghiệp trong năm. Sau khi tìm meu các phần mềm để quản trị cơ sở dữ liệu trên, một số bạn học sinh đưa ra các y hen sau: Trong phần mềm quần trị cơ sở dữ liệu, mối quan hệ của 3 bảng đã cho được thiết ka.p dựa trên việc liên kết từ bảng NHOM đến bảng LOẠI và liên kết từ bảng NHOM đến bảng LAODONG.",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "S"
+      },
+      {
+        "number": "16",
+        "content": "Trong niên giám số liệu thống kê của To1'1g cục thong kê có dữ liệu từ năm 2019 đến năm 2023 về tổng số lao động của các doanh nghiệp đang hoạt động (có kết quả sản xuất kinh doanh tại thời điểm 31/12 hàng năm). Dữ liệu này được phân loại theo loại hình doanh nghiệp. Để lưu trữ và khai thác nguồn dữ liệu này, cần tạo một cơ sở dữ liệu với các bảng sau đây: s NHOM (maNhom, tenNhom): lưu thông tìn mã nhóm và tên nhóm doanh nghiệp; mỗi nhóm có một mã nhóm duy nhất. s LOẠI (maLoai, tenLoai, tenNhom) lưu thông tin mã loại hình, tên loại hình và mã nhóm doanh nghiệp; mỗi loại hình thuộc về một nhóm và mỗi nhóm có thể có nhiều loại hình. s LAODONG (maloai, nam, soLaoDong): lưu thông tin mã loại hình, năm, số lượng lao động của loại hình doanh nghiệp trong năm. Sau khi tìm meu các phần mềm để quản trị cơ sở dữ liệu trên, một số bạn học sinh đưa ra các y hen sau: D) Để đưa ra thông tin gồm tên nhóm doanh nghiệp, tên loại hình doanh nghiệp, năm và số lượng lao động của loại hình doanh nghiệp năm 2022, thực hiện truy vấn sau: SELECT NHOM.tenNhom, LOAI.tenLoai, LAODONG.nam, LAODONG.soLaoDong FROM NHOM 1NNER JOIN LOẠI ON NHOM.maNhom = LOAI.maNhom WHERE LAODONG.nam = 2022",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "S"
+      }
+    ]
+  },
+  "0539": {
+    "multiple_choice": [
+      {
+        "number": "1",
+        "content": "Thiết bị nào sau đây có chức năng chính là thiết lập kênh kết nối giữa các thiết bị trong mạng LAN (có dây) đề truyền dữ liệu?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Modem."
+          },
+          {
+            "label": "B",
+            "content": "Access Point."
+          },
+          {
+            "label": "C",
+            "content": "Switch."
+          },
+          {
+            "label": "D",
+            "content": "Router."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "C"
+      },
+      {
+        "number": "2",
+        "content": "Tiêu đề của trang web được khai báo trong phân tử HTML nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "html"
+          },
+          {
+            "label": "B",
+            "content": "title"
+          },
+          {
+            "label": "C",
+            "content": "body"
+          },
+          {
+            "label": "D",
+            "content": "p"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "B"
+      },
+      {
+        "number": "3",
+        "content": "Phương án nào sau đây chỉ ra lý do chủ yếu dẫn tới nhu cầu gia tăng về số lượng chuyên gia bảo mật hệ thống thông tin?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Tính phức tạp ngày càng tăng của các cuộc tấn công mạng."
+          },
+          {
+            "label": "B",
+            "content": "Dung lượng của các thiết bị lưu trữ ngày càng tăng nhanh."
+          },
+          {
+            "label": "C",
+            "content": "Tốc độ xử lý của CPU ngày càng tăng nhanh."
+          },
+          {
+            "label": "D",
+            "content": "Sự phổ biến của các ứng dụng soạn thảo văn bản."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "4",
+        "content": "Trong bộ giao thức TCP/IP, giao thức IP đảm nhận vai trò nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Cấp phát địa chỉ IP cho các thiết bị trong mạng."
+          },
+          {
+            "label": "B",
+            "content": "Định tuyến các gox dữ liệu đến đúng địa chỉ mạng."
+          },
+          {
+            "label": "C",
+            "content": "Thiết lập bộ quy tắc gửi và nhận thư điện tử qua mạng."
+          },
+          {
+            "label": "D",
+            "content": "Truyền tải an toàn dữ liệu giữa các thiết bị."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "B"
+      },
+      {
+        "number": "5",
+        "content": "Trong lĩnh vực y tế, Trí tuệ nhân tạo được ứng dụng phồ biến trong hệ thống nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Hỗ trợ bác sĩ chắn đoán bệnh dựa trên hình ảnh X-quang."
+          },
+          {
+            "label": "B",
+            "content": "In phiều thứ tự khám bệnh cho bệnh nhân tại các phòng khám."
+          },
+          {
+            "label": "C",
+            "content": "Tự động hóa hoàn toàn việc kê đơn thuốc cho bệnh nhân."
+          },
+          {
+            "label": "D",
+            "content": "Tự động hóa hoàn toàn việc thẩm định các loại thuốc mới."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "6",
+        "content": "Cho đoạn mã HTML sau: <table border=\"1\" width=\"50%$\" height=\"10%\"> <tr> <th> </th> <th> </th> <th> </th> </tr> <tr> <td> </td> <td> </td> <td> </td> </tr> </table> Phương án nào sau đây nêu đúng số lượng hàng và cột của bảng được tạo bởi đoạn mã trên?",
+        "options": [
+          {
+            "label": "A",
+            "content": "2 hàng, 2 cột."
+          },
+          {
+            "label": "B",
+            "content": "2 hàng, 3 cột."
+          },
+          {
+            "label": "C",
+            "content": "3 hàng, 3 cột."
+          },
+          {
+            "label": "D",
+            "content": "3hàng, 2 cột."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "B"
+      },
+      {
+        "number": "7",
+        "content": "Lựa chọn ngôn ngữ Python hoặc C++ để tìm hiểu đoạn chương trình sau: Dòng Đoạn chương trình viết bằng Python Đoạn chương trình viết bằng C++ 1 n,i,S=9,5, 0 intUun=9,, i = 5, S= 0; 2 while i < n: wnile (i <n) { 3 S=Ssr+ri S=S+ 1i; 4 i = i + 2?",
+        "options": [
+          {
+            "label": "A",
+            "content": "2."
+          },
+          {
+            "label": "B",
+            "content": "3."
+          },
+          {
+            "label": "C",
+            "content": "0."
+          },
+          {
+            "label": "D",
+            "content": "1."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "8",
+        "content": "Cách ứng xử nào sau đây phù hợp đối với kết quả được tạo ra bởi Trí tuệ nhân tạo?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Xem xét một cách thận trọng và có trách nhiệm."
+          },
+          {
+            "label": "B",
+            "content": "Tin tưởng hoàn toàn vào tính chính xác và khách quan."
+          },
+          {
+            "label": "C",
+            "content": "Giữ nguyên để làm sản phẩm học tập và nghiên cứu."
+          },
+          {
+            "label": "D",
+            "content": "Chia sẻ ra cộng đồng mà không cần kiểm chứng."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "9",
+        "content": "Hành vi nào sau đây không phù hợp với đạo đức trong môi trường số?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Phát tán tin đồn chưa được kiểm chứng về người khác."
+          },
+          {
+            "label": "B",
+            "content": "Chia sẻ kiến thức có ích kèm theo nguồn trích dẫn."
+          },
+          {
+            "label": "C",
+            "content": "Cổ vũ cho nhưng wẹc làm tốt để lan tỏa đến mọi người."
+          },
+          {
+            "label": "D",
+            "content": "Trao đổi ý kiến thẳng thắn nhưng mang tính xây dựng."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "10",
+        "content": "Khả năng hiểu ngôn ngữ của Trí tuệ nhân tạo không thể hiện trong hệ thống nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Nhận diện khuôn mặt."
+          },
+          {
+            "label": "B",
+            "content": "Trợ giúp soạn thảo văn bản."
+          },
+          {
+            "label": "C",
+            "content": "Trợ lý ảo trên xe ô tô."
+          },
+          {
+            "label": "D",
+            "content": "Tổng đài tự động hỏi đáp."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "11",
+        "content": "Lựa chọn ngôn ngữ Python hoặc C++ đề tìm hiểu đoạn chương trình sau: Dòng Đoạn chương trình viết bằng Python 'Đoạn chương trình viết bằng C+ + 1 s = \"TRI_TUE_NHAN_TAO\" char s[] = \"TRI_TUE_NHAN_ TAO\"; 2 x=39 int x = 9; 3 for i in range(8, 10): for (int i = 8; i < 10; i+r+) ({ 4 ifi%2=.0: x=x * 2 if (1% 2 = 0) x= x * 2; 5 else: x = x // 3 else x = x / 3; 6 print(s[x]) } 7 cout << s[x]; Sau khi thực hiện đoạn chương trình trên, kí tự nào sau đây được hiền thị trên màn hình?",
+        "options": [
+          {
+            "label": "A",
+            "content": "E"
+          },
+          {
+            "label": "B",
+            "content": "U"
+          },
+          {
+            "label": "C",
+            "content": "R"
+          },
+          {
+            "label": "D",
+            "content": "T"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "12",
+        "content": "Một công ty có hai chỉ nhánh ở cách nhau khoảng 10 km. Các máy tính ở mỗi chi nhánh đã được kết nối thành một mạng LAN riêng. Thiết bị nào sau đây là phù hợp nhất để kết nối hai mạng riêng này thành một mạng chung?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Router."
+          },
+          {
+            "label": "B",
+            "content": "Access Point."
+          },
+          {
+            "label": "C",
+            "content": "Switch."
+          },
+          {
+            "label": "D",
+            "content": "Modem."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "13",
+        "content": "Một người lạ bắt chuyện qua mạng xã hội và giới thiệu cơ hội \"việc nhẹ lương cao\" cho một học sinh. Tuy nhiên, đề nhận công việc này phải nộp trước một số tiền đặt cọc giữ chỗ. Trong tình huống này, ứng xử nào sau đây của bạn học sinh không an toàn trên không gian mạng?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Xác mình thông tin một cách cẩn trọng."
+          },
+          {
+            "label": "B",
+            "content": "Trình báo cho công an về dấu hiệu lừa đảo."
+          },
+          {
+            "label": "C",
+            "content": "Nộp tiền đặt cọc ngay theo yêu cầu."
+          },
+          {
+            "label": "D",
+            "content": "Bỏ qua tin nhắn và cảnh báo cho bạn bè."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "C"
+      },
+      {
+        "number": "14",
+        "content": "Thẻ HTML nào sau đây được dùng để tạo danh sách có thứ tự?",
+        "options": [
+          {
+            "label": "A",
+            "content": "<li>"
+          },
+          {
+            "label": "B",
+            "content": "<ul>"
+          },
+          {
+            "label": "C",
+            "content": "<o1l>"
+          },
+          {
+            "label": "D",
+            "content": "<tab1e>"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "C"
+      },
+      {
+        "number": "15",
+        "content": "Đoạn mã HTML nào sau đây định dạng dòng chữ \"TN THPT 2025\"? thành in đậm, riêng số 2025 còn được in nghiêng?",
+        "options": [
+          {
+            "label": "A",
+            "content": "<p><em><strong>TN THPT 2025</strong></em></p>"
+          },
+          {
+            "label": "B",
+            "content": "<p><strong>TN THPT <em>2025</em></strong></p>"
+          },
+          {
+            "label": "C",
+            "content": "<p><em>TN THPT </em><strong>2025</strong></p>"
+          },
+          {
+            "label": "D",
+            "content": "<p><em>TN THPT <strong>2025</strong></em></p>"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "B"
+      },
+      {
+        "number": "16",
+        "content": "Lĩnh vực tin học nào sau đây tập trung vào việc nghiên cứu và phát triển các phần mềm làm cho máy tính ngày càng thông minh như con người?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Internet vạn vật."
+          },
+          {
+            "label": "B",
+            "content": "An toàn thông tin."
+          },
+          {
+            "label": "C",
+            "content": "Mạng máy tính."
+          },
+          {
+            "label": "D",
+            "content": "Trí tuệ nhân tạo."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "17",
+        "content": "Đoạn mã CSS nào sau đây thiết lập đường viền có độ dày 3 pixel, kiểu nét đứt bao quanh các đối tượng nội dung khi hiên thị trên trình duyệt?",
+        "options": [
+          {
+            "label": "A",
+            "content": "p.border {border-width: 3px; border-style: groove;})"
+          },
+          {
+            "label": "B",
+            "content": "p (border-width: 3px; border-style: double;]}"
+          },
+          {
+            "label": "C",
+            "content": "p.border {border-width: 3px; border-style: double;}"
+          },
+          {
+            "label": "D",
+            "content": "p {border-width: 3px; border-style: dashed;}"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "18",
+        "content": "Khi thực hiện đoạn mã HTML sau, dòng chữ \"Chúc các em thi tôt!\" sẽ được hiền thị trên trình duyệt theo định dạng nào dưới đây? <html><head><style> .mau{color: green; font-weight: bold;} #mau{color: yellow; font-style: italic;]} </sty1e></head><body><p id=\"mau\">Chúc các em thi tốt!</p></body></html>",
+        "options": [
+          {
+            "label": "A",
+            "content": "Màu vàng, in nghiêng."
+          },
+          {
+            "label": "B",
+            "content": "Màu xanh lá cây, in nghiêng."
+          },
+          {
+            "label": "C",
+            "content": "Màu xanh lá cây, in đậm."
+          },
+          {
+            "label": "D",
+            "content": "Màu vàng, in đậm."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "A"
+      },
+      {
+        "number": "19",
+        "content": "Router có chức năng ủmh nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Phát tín hiệu ủn tất cả các wng kết nối trong mạng LAN."
+          },
+          {
+            "label": "B",
+            "content": "Tìm đường đi tối ưu để truyền các gói dữ liệu giữa các mạng."
+          },
+          {
+            "label": "C",
+            "content": "Kết nối các thiết bị bằng sóng vô tuyến trong mạng cục bộ."
+          },
+          {
+            "label": "D",
+            "content": "Chuyển đồi giữa tín hiệu tương tự và tín hiệu số qua mạng."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "B"
+      },
+      {
+        "number": "20",
+        "content": "Người làm nghề sửa chữa và bảo trì máy tính phải có kiến thức về lĩnh vực nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "An toàn thông tin."
+          },
+          {
+            "label": "B",
+            "content": "Lập trình nhúng."
+          },
+          {
+            "label": "C",
+            "content": "Phần cứng máy tính."
+          },
+          {
+            "label": "D",
+            "content": "Cơ sở dữ liệu."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "C"
+      },
+      {
+        "number": "21",
+        "content": "Thuộc tính CSS nào sau đây thiết lập cỡ chữ cho văn bản?",
+        "options": [
+          {
+            "label": "A",
+            "content": "text-indent"
+          },
+          {
+            "label": "B",
+            "content": "text-align"
+          },
+          {
+            "label": "C",
+            "content": "font-family"
+          },
+          {
+            "label": "D",
+            "content": "font-size"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "D"
+      },
+      {
+        "number": "22",
+        "content": "Khi đọc được thông tin về một khu vực vừa bị thiên tai trên một trang báo điện tử uy tín, hành động nào sau đây không thể hiện tính nhân văn trên không gian mạng?",
+        "options": [
+          {
+            "label": "A",
+            "content": " Gửi lời chia buồn và động viên những người bị ảnh hưởng từ thiên tai."
+          },
+          {
+            "label": "B",
+            "content": "Đăng tải lại hình ảnh thiên tai trên trang cá nhân để tăng lượt tương tác."
+          },
+          {
+            "label": "C",
+            "content": "Tham gia các nhóm từ thiện trực t\\1yến để tìm hiểu và hỗ trợ thiết thực."
+          },
+          {
+            "label": "D",
+            "content": "Kêu gọi giúp đỡ từ cộng đồng nếu xác minh được thông tin là chính xác."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "B"
+      },
+      {
+        "number": "23",
+        "content": "Người quản trị mạng thực hiện công việc chính nào sau đây?",
+        "options": [
+          {
+            "label": "A",
+            "content": "Xây dụng các ứng dụng trên mạng."
+          },
+          {
+            "label": "B",
+            "content": "Thiết lập và cấu hình hệ thống mạng ."
+          },
+          {
+            "label": "C",
+            "content": "Tư vấn nâng cấp các thiết bị phần cứng."
+          },
+          {
+            "label": "D",
+            "content": "Nghiên cứu và phát triển các phần mềm."
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "B"
+      },
+      {
+        "number": "24",
+        "content": "Đoạn mã CSS nào sau đây thiết lập hình ảnh và văn bản được hiển thị theo khối?",
+        "options": [
+          {
+            "label": "A",
+            "content": "img, p {display: flex;}"
+          },
+          {
+            "label": "B",
+            "content": "img, p (display: inline;]}"
+          },
+          {
+            "label": "C",
+            "content": "img, p (display: block;}"
+          },
+          {
+            "label": "D",
+            "content": "img, p (display: none;}"
+          }
+        ],
+        "type": "mc",
+        "correct_answer": "C"
+      }
+    ],
+    "true_false_common": [
+      {
+        "number": "1",
+        "content": "Tòa nhà của một công ty có một số phòng làm việc. M01 phòng có không quá 10 máy tính, được kết nối với nhau thông qua Switch tạo thành một mạng LAN. Cong ty cần kết nối các mạng LAN này với nhau để tạo thành một mạng cục bộ duy nhất. Sau khi thảo luận, một số nhân viên của công ty đưa ra các nhận định sau: A) Mang cục bộ của công ty là mạng WAN.",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "S"
+      },
+      {
+        "number": "2",
+        "content": "Tòa nhà của một công ty có một số phòng làm việc. M01 phòng có không quá 10 máy tính, được kết nối với nhau thông qua Switch tạo thành một mạng LAN. Cong ty cần kết nối các mạng LAN này với nhau để tạo thành một mạng cục bộ duy nhất. Sau khi thảo luận, một số nhân viên của công ty đưa ra các nhận định sau: B) Có thể sử dụng Switch loại 16 cồng để kết nối các máy tính trong mỗi phong làm việc.",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "3",
+        "content": "Tòa nhà của một công ty có một số phòng làm việc. M01 phòng có không quá 10 máy tính, được kết nối với nhau thông qua Switch tạo thành một mạng LAN. Cong ty cần kết nối các mạng LAN này với nhau để tạo thành một mạng cục bộ duy nhất. Sau khi thảo luận, một số nhân viên của công ty đưa ra các nhận định sau: C) Để máy tính trong các phòng làm việc truy cập được Internet thì chỉ cần lắp đặt thêm một Modem mà không cần phải đang ký với nhà cung mp dịch vụ Internet.",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "S"
+      },
+      {
+        "number": "4",
+        "content": "Tòa nhà của một công ty có một số phòng làm việc. M01 phòng có không quá 10 máy tính, được kết nối với nhau thông qua Switch tạo thành một mạng LAN. Cong ty cần kết nối các mạng LAN này với nhau để tạo thành một mạng cục bộ duy nhất. Sau khi thảo luận, một số nhân viên của công ty đưa ra các nhận định sau:  Để các nhân viên có thể sử dụng điện thoại thong minh kết nối được vào mạng cục bộ của công ty qua Wi-Fi, có thể lắp đặt cho mox phòng một Access Point và kết nối thiết bị này với Switch ở phòng đó.",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "5",
+        "content": "Dữ liệu về dân số nước ta từ năm 2019 đến năm 2023 có trong men giám sô liệu .hong kê của Tổng cục thống kê. Việc quản lí dữ liệu này có ý nghĩa quan trọng trong hoạch định một số chính sách quốc gia. Đề lưu trữ và khai thác dữ liệu về dân số hàng năm theo từng khu vực, có thể tạo cơ sở dữ liệu với các bảng sau: s KHUVUC (maKV, tenKV): lưu thông tin mã khu vực và tên khu vực; mỗi khu vực có một mã khu vực duy nhất. s TINH (maTinh, maKV, tenTinh): lưu thông tin mã tỉnh, mã khu vực và tên tỉnh; mỗi tỉnh chỉ thuộc về một khu vực và mỗi khu vực có thể có nhiều tỉnh. s DANSO WaT ïnh, nam, danSoTB) lưu thông tin: mã tỉnh, năm và dân số trung bình của năm. Sau khi tìm hiểu cơ sở dữ liệu trên, một số học sinh đưa ra các ý kiến sau: Trường maKV là khóa ngoài của bảng KHUVUC.",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "S"
+      },
+      {
+        "number": "6",
+        "content": "Dữ liệu về dân số nước ta từ năm 2019 đến năm 2023 có trong men giám sô liệu .hong kê của Tổng cục thống kê. Việc quản lí dữ liệu này có ý nghĩa quan trọng trong hoạch định một số chính sách quốc gia. Đề lưu trữ và khai thác dữ liệu về dân số hàng năm theo từng khu vực, có thể tạo cơ sở dữ liệu với các bảng sau: s KHUVUC (maKV, tenKV): lưu thông tin mã khu vực và tên khu vực; mỗi khu vực có một mã khu vực duy nhất. s TINH (maTinh, maKV, tenTinh): lưu thông tin mã tỉnh, mã khu vực và tên tỉnh; mỗi tỉnh chỉ thuộc về một khu vực và mỗi khu vực có thể có nhiều tỉnh. s DANSO WaT ïnh, nam, danSoTB) lưu thông tin: mã tỉnh, năm và dân số trung bình của năm. Sau khi tìm hiểu cơ sở dữ liệu trên, một số học sinh đưa ra các ý kiến sau:  Nhóm hai trường /saTinh và nam là khóa chính của bảng DANSO. ",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "7",
+        "content": "Dữ liệu về dân số nước ta từ năm 2019 đến năm 2023 có trong men giám sô liệu .hong kê của Tổng cục thống kê. Việc quản lí dữ liệu này có ý nghĩa quan trọng trong hoạch định một số chính sách quốc gia. Đề lưu trữ và khai thác dữ liệu về dân số hàng năm theo từng khu vực, có thể tạo cơ sở dữ liệu với các bảng sau: s KHUVUC (maKV, tenKV): lưu thông tin mã khu vực và tên khu vực; mỗi khu vực có một mã khu vực duy nhất. s TINH (maTinh, maKV, tenTinh): lưu thông tin mã tỉnh, mã khu vực và tên tỉnh; mỗi tỉnh chỉ thuộc về một khu vực và mỗi khu vực có thể có nhiều tỉnh. s DANSO WaT ïnh, nam, danSoTB) lưu thông tin: mã tỉnh, năm và dân số trung bình của năm. Sau khi tìm hiểu cơ sở dữ liệu trên, một số học sinh đưa ra các ý kiến sau:  Chỉ cần liên kết hai bang TINH và DANSO theo khóa ma7inh là có thể kết xuất được thông tin đầy đủ gồm: tên tỉnh, tên khu vực, năm và dân số trung bình của năm.",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "S"
+      },
+      {
+        "number": "8",
+        "content": "Dữ liệu về dân số nước ta từ năm 2019 đến năm 2023 có trong men giám sô liệu .hong kê của Tổng cục thống kê. Việc quản lí dữ liệu này có ý nghĩa quan trọng trong hoạch định một số chính sách quốc gia. Đề lưu trữ và khai thác dữ liệu về dân số hàng năm theo từng khu vực, có thể tạo cơ sở dữ liệu với các bảng sau: s KHUVUC (maKV, tenKV): lưu thông tin mã khu vực và tên khu vực; mỗi khu vực có một mã khu vực duy nhất. s TINH (maTinh, maKV, tenTinh): lưu thông tin mã tỉnh, mã khu vực và tên tỉnh; mỗi tỉnh chỉ thuộc về một khu vực và mỗi khu vực có thể có nhiều tỉnh. s DANSO WaT ïnh, nam, danSoTB) lưu thông tin: mã tỉnh, năm và dân số trung bình của năm. Sau khi tìm hiểu cơ sở dữ liệu trên, một số học sinh đưa ra các ý kiến sau:  Để đưa ra được thông tin gồm tên tỉnh, năm và dân số trung bình của năm 2020, có thể thực hiện câu truy vấn với các thành phần sau: o Các bảng và trường được chọn: TINH./tenTinh, DANSO.nam, DANSO.danSoTB. © Các bảng được liên kết qua khóa: TINH liên kết DANSO qua khóa maTinh. o Điều kiện kết xuất dữ liệu: DANSO.nam = 2020. B. Phần riêng Thí sinh chỉ được phép chọn một trong hai pharz iKhoa học máy tính (",
+        "options": [],
+        "type": "tf_common",
+        "correct_answer": "Đ"
+      }
+    ],
+    "true_false_special": [
+      {
+        "number": "1",
+        "content": "Hội chứng FOMO (Fear of Missing Out, sau đây gọi tắt là Hội chứng) là cảm giác lo âu, tiếc nuồi khi nghĩ mình đang bỏ qua một điều gì đó thú vị, hấp dẫn, chẳng hạn như bỏ lỡ cơ hội mua một món đồ giảm giá nào đó. Nắm bắt được thực tế số lượng người mmắc: Hội chứng ngày càng nhiều, một công ty đã lên kế hoạch xây dựng hệ thống trí tuệ nhân tạo để dự đoán khả năng mắc Hội chứng. Công ty đã tạo bảng câu hỏi và thu thập dữ liệu khảo sát từ hơn 10 000 người để làm dữ liệu huấn luyện mô hình. Kết ựa cho thấy tỉ lệ người mắc Hội chứng là 35% và người chưa mắc là 65%. Trong khi thảo luận, một số nhân viên của công ty đưa ra các nhận định sau: A) Thông tin mắc và chưa mắc Hội chứng cua mỗi người có thể được sử dụng làm nhãn của dữ liệu huấn luyện mô hình.",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "2",
+        "content": "Hội chứng FOMO (Fear of Missing Out, sau đây gọi tắt là Hội chứng) là cảm giác lo âu, tiếc nuồi khi nghĩ mình đang bỏ qua một điều gì đó thú vị, hấp dẫn, chẳng hạn như bỏ lỡ cơ hội mua một món đồ giảm giá nào đó. Nắm bắt được thực tế số lượng người mmắc: Hội chứng ngày càng nhiều, một công ty đã lên kế hoạch xây dựng hệ thống trí tuệ nhân tạo để dự đoán khả năng mắc Hội chứng. Công ty đã tạo bảng câu hỏi và thu thập dữ liệu khảo sát từ hơn 10 000 người để làm dữ liệu huấn luyện mô hình. Kết ựa cho thấy tỉ lệ người mắc Hội chứng là 35% và người chưa mắc là 65%. Trong khi thảo luận, một số nhân viên của công ty đưa ra các nhận định sau: B) Không cần sử dụng các phương pháp tiền xử lý để làm sạch tập dữ liệu đã thu thập nói trên trước khi đưa vào huấn luyện mô hình. ",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "S"
+      },
+      {
+        "number": "3",
+        "content": "Hội chứng FOMO (Fear of Missing Out, sau đây gọi tắt là Hội chứng) là cảm giác lo âu, tiếc nuồi khi nghĩ mình đang bỏ qua một điều gì đó thú vị, hấp dẫn, chẳng hạn như bỏ lỡ cơ hội mua một món đồ giảm giá nào đó. Nắm bắt được thực tế số lượng người mmắc: Hội chứng ngày càng nhiều, một công ty đã lên kế hoạch xây dựng hệ thống trí tuệ nhân tạo để dự đoán khả năng mắc Hội chứng. Công ty đã tạo bảng câu hỏi và thu thập dữ liệu khảo sát từ hơn 10 000 người để làm dữ liệu huấn luyện mô hình. Kết ựa cho thấy tỉ lệ người mắc Hội chứng là 35% và người chưa mắc là 65%. Trong khi thảo luận, một số nhân viên của công ty đưa ra các nhận định sau:  Mô hình học máy phù hợp nhất được sử dụng để xây dựng hệ thống dự đoán trong tình huống này là mô hình Học có giám sát.",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "4",
+        "content": "Hội chứng FOMO (Fear of Missing Out, sau đây gọi tắt là Hội chứng) là cảm giác lo âu, tiếc nuồi khi nghĩ mình đang bỏ qua một điều gì đó thú vị, hấp dẫn, chẳng hạn như bỏ lỡ cơ hội mua một món đồ giảm giá nào đó. Nắm bắt được thực tế số lượng người mmắc: Hội chứng ngày càng nhiều, một công ty đã lên kế hoạch xây dựng hệ thống trí tuệ nhân tạo để dự đoán khả năng mắc Hội chứng. Công ty đã tạo bảng câu hỏi và thu thập dữ liệu khảo sát từ hơn 10 000 người để làm dữ liệu huấn luyện mô hình. Kết ựa cho thấy tỉ lệ người mắc Hội chứng là 35% và người chưa mắc là 65%. Trong khi thảo luận, một số nhân viên của công ty đưa ra các nhận định sau: D) Khi xuất hiện biểu hiện lo âu, tiếc nuối, người ta chỉ cần sử dụng hệ thống dự đoán của công ty nói trên đề biết được chính xác mình có mắc Hội chứng hay không.",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "S"
+      },
+      {
+        "number": "5",
+        "content": "Cho hàm sau đây được viết bằng ngôn ngữ lập trình Python và C++: Dòng Hàm viết bằng ngôn ngữ Python Hàm viết bằng ngôn ngũữ C++ 1 def F(A, n): float F(int A[], intn) ({ 2 for i in range(1, n): for (inti= 1; i <n; i+r) ({ 3 = A[i] int x= A[i]; 4 4Ả=zi-1 intj=i - 1; 5 while j >= 0 and A[j] > x: while (j >= 0 §&§ A[j] > x) ({ 6 AIj + 1] = AI3] AI + 1] = Al3]; 7 3=3-1 15371 8 AI3 + 1] = x } 9 return (A[n // 2] +A[n - 1]) / 2 A[j + 1] = x; 10 } 11 return (A[n / 2] + An - 1]) / 2.0; 12 } Sau khi chọn một trong Mi ngôn ngữ Python ủạc C++ đề tìm hiểu hàm trên, một số bạn học sinh đã nêu các ý kiến sau: A) Mang A biểu diễn cầu trúc dữ hẹu ngăn xep (Stack).",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "S"
+      },
+      {
+        "number": "6",
+        "content": "Cho hàm sau đây được viết bằng ngôn ngữ lập trình Python và C++: Dòng Hàm viết bằng ngôn ngữ Python Hàm viết bằng ngôn ngũữ C++ 1 def F(A, n): float F(int A[], intn) ({ 2 for i in range(1, n): for (inti= 1; i <n; i+r) ({ 3 = A[i] int x= A[i]; 4 4Ả=zi-1 intj=i - 1; 5 while j >= 0 and A[j] > x: while (j >= 0 §&§ A[j] > x) ({ 6 AIj + 1] = AI3] AI + 1] = Al3]; 7 3=3-1 15371 8 AI3 + 1] = x } 9 return (A[n // 2] +A[n - 1]) / 2 A[j + 1] = x; 10 } 11 return (A[n / 2] + An - 1]) / 2.0; 12 } Sau khi chọn một trong Mi ngôn ngữ Python ủạc C++ đề tìm hiểu hàm trên, một số bạn học sinh đã nêu các ý kiến sau: B) Nếu dữ liệu đầu vào là mảng A gồm n phần tử đã được sắp xếp theo chiều không giảm thì các câu lệnh tại Dòng 6 và Dòng 7 được thực hiện n lần.",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "S"
+      },
+      {
+        "number": "7",
+        "content": "Cho hàm sau đây được viết bằng ngôn ngữ lập trình Python và C++: Dòng Hàm viết bằng ngôn ngữ Python Hàm viết bằng ngôn ngũữ C++ 1 def F(A, n): float F(int A[], intn) ({ 2 for i in range(1, n): for (inti= 1; i <n; i+r) ({ 3 = A[i] int x= A[i]; 4 4Ả=zi-1 intj=i - 1; 5 while j >= 0 and A[j] > x: while (j >= 0 §&§ A[j] > x) ({ 6 AIj + 1] = AI3] AI + 1] = Al3]; 7 3=3-1 15371 8 AI3 + 1] = x } 9 return (A[n // 2] +A[n - 1]) / 2 A[j + 1] = x; 10 } 11 return (A[n / 2] + An - 1]) / 2.0; 12 } Sau khi chọn một trong Mi ngôn ngữ Python ủạc C++ đề tìm hiểu hàm trên, một số bạn học sinh đã nêu các ý kiến sau: C) Nếu dữ liệu đầu vào là n = 6 và mảng A là (6, 4, 2, 1, 3, 5) thì sau khi câu lệnh £or tại Dòng 2 thực hiện lần lặp thứ 2, giá trị của mảng A là (2,4,6,1,3,5).",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "8",
+        "content": "Cho hàm sau đây được viết bằng ngôn ngữ lập trình Python và C++: Dòng Hàm viết bằng ngôn ngữ Python Hàm viết bằng ngôn ngũữ C++ 1 def F(A, n): float F(int A[], intn) ({ 2 for i in range(1, n): for (inti= 1; i <n; i+r) ({ 3 = A[i] int x= A[i]; 4 4Ả=zi-1 intj=i - 1; 5 while j >= 0 and A[j] > x: while (j >= 0 §&§ A[j] > x) ({ 6 AIj + 1] = AI3] AI + 1] = Al3]; 7 3=3-1 15371 8 AI3 + 1] = x } 9 return (A[n // 2] +A[n - 1]) / 2 A[j + 1] = x; 10 } 11 return (A[n / 2] + An - 1]) / 2.0; 12 } Sau khi chọn một trong Mi ngôn ngữ Python ủạc C++ đề tìm hiểu hàm trên, một số bạn học sinh đã nêu các ý kiến sau: D) Nếu dữ liệu đầu vào là n = 7 và mảng A là (8, 6, 4, 2, 3, 5, 7) thì hàm trả về giá trị 6.5. B2. Tin học ứng dụng",
+        "options": [],
+        "type": "tf_special",
+        "part": "computer_science",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "9",
+        "content": "Một trường phổ thông muốn sử dụng một phần mềm đề xây dựng một website đưa thông tin về hoạt động của các câu lạc bộ (CLB) trong nhà trường. Website có cầu trúc như sau: %an đầu trang chứa hình ảnh logo của trường; thanh banner chứa hình ảnh về hoạt động của các CLB; thanh điều hướng gồm ba mục chính Giới thiệu, Hoạt động và Các sự kiện. Ứng với mỗi mục chmh sẽ có các mục con có nhãn là tên các CLB và chứa llen kết đến trang web của CLB tương ứng. Trong khi thảo luận về việc sử r dụng phan mềm để xây dựng website này, mọt số bạn học sinh đưa ra ý kiến như sau: Phần mem tạo trang web có sẵn mẫu bố cục trang Web đề thlet kế các phan cho website của trường.",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "10",
+        "content": "Một trường phổ thông muốn sử dụng một phần mềm đề xây dựng một website đưa thông tin về hoạt động của các câu lạc bộ (CLB) trong nhà trường. Website có cầu trúc như sau: %an đầu trang chứa hình ảnh logo của trường; thanh banner chứa hình ảnh về hoạt động của các CLB; thanh điều hướng gồm ba mục chính Giới thiệu, Hoạt động và Các sự kiện. Ứng với mỗi mục chmh sẽ có các mục con có nhãn là tên các CLB và chứa llen kết đến trang web của CLB tương ứng. Trong khi thảo luận về việc sử r dụng phan mềm để xây dựng website này, mọt số bạn học sinh đưa ra ý kiến như sau: Phần mềm tạo trang web cho phép thay thế ảnh có sẵn của mẫu bằng ảnh về hoạt động của các CLB. ",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "11",
+        "content": "Một trường phổ thông muốn sử dụng một phần mềm đề xây dựng một website đưa thông tin về hoạt động của các câu lạc bộ (CLB) trong nhà trường. Website có cầu trúc như sau: %an đầu trang chứa hình ảnh logo của trường; thanh banner chứa hình ảnh về hoạt động của các CLB; thanh điều hướng gồm ba mục chính Giới thiệu, Hoạt động và Các sự kiện. Ứng với mỗi mục chmh sẽ có các mục con có nhãn là tên các CLB và chứa llen kết đến trang web của CLB tương ứng. Trong khi thảo luận về việc sử r dụng phan mềm để xây dựng website này, mọt số bạn học sinh đưa ra ý kiến như sau: Các mục con có nhãn là tên các CLB bắt buộc phải hiển thị trên thanh điều hướng của trang chủ.",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "S"
+      },
+      {
+        "number": "12",
+        "content": "Một trường phổ thông muốn sử dụng một phần mềm đề xây dựng một website đưa thông tin về hoạt động của các câu lạc bộ (CLB) trong nhà trường. Website có cầu trúc như sau: %an đầu trang chứa hình ảnh logo của trường; thanh banner chứa hình ảnh về hoạt động của các CLB; thanh điều hướng gồm ba mục chính Giới thiệu, Hoạt động và Các sự kiện. Ứng với mỗi mục chmh sẽ có các mục con có nhãn là tên các CLB và chứa llen kết đến trang web của CLB tương ứng. Trong khi thảo luận về việc sử r dụng phan mềm để xây dựng website này, mọt số bạn học sinh đưa ra ý kiến như sau: Để có thể xem được video về hoạt động của các CLB trên website, phải &ổng thời thực hiện hai việc: tải video lên máy chủ chứa trang web và nhúng liên kết tới video đó trên YouTube.",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "S"
+      },
+      {
+        "number": "13",
+        "content": "Trong niên giám số liệu thống kê có dữ liệu từ năm 2019 đến năm 2023 về tổng vốn đăng kí đầu tư trực tiếp nước ngoài, được cấp phép phân theo địa phương (có hiệu lực đến 31/12/2023). Cần tạo cơ sở dữ liệu với các bảng sau đề lưu trữ và khai thác nguồn dữ liệu này. s KHUVUC (maK7, tenKV): lưu thông tin mã khu vực và tên khu vực; mỗi khu vực có một mã khu vực duy nhất. s DIAPHUONG maDP, tenDP, maKV): lưu thông tin mã địa phương, tên địa phương và mã khu vực; mỗi địa phương chỉ thuộc một khu vực và mỗi khu vực có thể có một số địa phương. s DAUTU (aDP, nam, tongVon): lưu thông tin mã địa phương, năm và tổng vốn đăng kí đầu tư theo địa phương trong nam. Sau khi tìm hiểu các ủần mềm đề quản trị cơ sở dữ liệu trên, một số bạn học sinh đưa ra các ý kiến sau: Phần mềm bảng tính có thể lưu trữ cơ sở dữ liệu đã nêu trong một trang tính duy nhất gồm các cột: maKV, tenKT, maDP, tenDP, nam, tongVon.",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "Đ"
+      },
+      {
+        "number": "14",
+        "content": "Trong niên giám số liệu thống kê có dữ liệu từ năm 2019 đến năm 2023 về tổng vốn đăng kí đầu tư trực tiếp nước ngoài, được cấp phép phân theo địa phương (có hiệu lực đến 31/12/2023). Cần tạo cơ sở dữ liệu với các bảng sau đề lưu trữ và khai thác nguồn dữ liệu này. s KHUVUC (maK7, tenKV): lưu thông tin mã khu vực và tên khu vực; mỗi khu vực có một mã khu vực duy nhất. s DIAPHUONG maDP, tenDP, maKV): lưu thông tin mã địa phương, tên địa phương và mã khu vực; mỗi địa phương chỉ thuộc một khu vực và mỗi khu vực có thể có một số địa phương. s DAUTU (aDP, nam, tongVon): lưu thông tin mã địa phương, năm và tổng vốn đăng kí đầu tư theo địa phương trong nam. Sau khi tìm hiểu các ủần mềm đề quản trị cơ sở dữ liệu trên, một số bạn học sinh đưa ra các ý kiến sau:  Khi tạo bảng DAUTU trong phần mềm quản trị cơ sở dữ liệu, chọn trường maDP rồi thiết lập trường này làm khóa chính của bảng. ",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "S"
+      },
+      {
+        "number": "15",
+        "content": "Trong niên giám số liệu thống kê có dữ liệu từ năm 2019 đến năm 2023 về tổng vốn đăng kí đầu tư trực tiếp nước ngoài, được cấp phép phân theo địa phương (có hiệu lực đến 31/12/2023). Cần tạo cơ sở dữ liệu với các bảng sau đề lưu trữ và khai thác nguồn dữ liệu này. s KHUVUC (maK7, tenKV): lưu thông tin mã khu vực và tên khu vực; mỗi khu vực có một mã khu vực duy nhất. s DIAPHUONG maDP, tenDP, maKV): lưu thông tin mã địa phương, tên địa phương và mã khu vực; mỗi địa phương chỉ thuộc một khu vực và mỗi khu vực có thể có một số địa phương. s DAUTU (aDP, nam, tongVon): lưu thông tin mã địa phương, năm và tổng vốn đăng kí đầu tư theo địa phương trong nam. Sau khi tìm hiểu các ủần mềm đề quản trị cơ sở dữ liệu trên, một số bạn học sinh đưa ra các ý kiến sau: Trong phần mềm quản trị cơ sở dữ liệu, mối quan hệ của 3 bảng đã cho được thiết lập dựa trên việc liên kết từ bảng KHUVUC đến bảng DIAPHUONG và liên kết từ bảng KHUVUC đến bảng DAUTU.",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "S"
+      },
+      {
+        "number": "16",
+        "content": "Trong niên giám số liệu thống kê có dữ liệu từ năm 2019 đến năm 2023 về tổng vốn đăng kí đầu tư trực tiếp nước ngoài, được cấp phép phân theo địa phương (có hiệu lực đến 31/12/2023). Cần tạo cơ sở dữ liệu với các bảng sau đề lưu trữ và khai thác nguồn dữ liệu này. s KHUVUC (maK7, tenKV): lưu thông tin mã khu vực và tên khu vực; mỗi khu vực có một mã khu vực duy nhất. s DIAPHUONG maDP, tenDP, maKV): lưu thông tin mã địa phương, tên địa phương và mã khu vực; mỗi địa phương chỉ thuộc một khu vực và mỗi khu vực có thể có một số địa phương. s DAUTU (aDP, nam, tongVon): lưu thông tin mã địa phương, năm và tổng vốn đăng kí đầu tư theo địa phương trong nam. Sau khi tìm hiểu các ủần mềm đề quản trị cơ sở dữ liệu trên, một số bạn học sinh đưa ra các ý kiến sau: Để đưa ra thông tin gồm tên khu vực, tên địa phương, năm và tổng vốn đăng kí đầu tư theo địa phương trong năm, có thể thực hiện truy vấn sau: SELECT KHUVUC.tenKV, DIAPHUONG.tenDP, DAUTU.nam, DAUTU.tongVon FROM KHUVUC INNER JOIN (DIAPHUONG INNER JOIN DAUTU ON DIAPHUONG.maDP = DAUTU.maDP) ON KHUVUC.maKV = DIAPHUONG.maKV",
+        "options": [],
+        "type": "tf_special",
+        "part": "applied_informatics",
+        "correct_answer": "Đ"
+      }
+    ]
+  }
+}
